@@ -1284,6 +1284,8 @@ class IntervalsSync:
         
         # Find cycling sport info
         cycling_info = None
+      if not sport_info:
+          return {"eftp": None, "w_prime": None, "w_prime_kj": None, "p_max": None, "source": "unavailable"}
         for sport in sport_info:
             if sport.get("type") == "Ride":
                 cycling_info = sport
