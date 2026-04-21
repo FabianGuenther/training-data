@@ -4,31 +4,56 @@ Erstellt am: 2026-04-21
 
 ---
 
-# Trainingsplan Woche 22.-28. April 2026
+## Wochenplan 22.-28. April 2026
+**Phase:** Recovery 1 (Post-Marathon + Eschborn-Vorbereitung)
 
-## 1) Lagebewertung
+### Lagebewertung
+- Wien Marathon: vor 2 Tagen (19.04.)
+- Eschborn Frankfurt: in 10 Tagen (01.05.)
+- Phase: Post-Marathon Recovery mit minimaler Rad-Gewöhnung
+- Readiness: Go (TSB -8.3, ACWR 1.26 optimal)
+- TID-Warnung: Verteilung zu threshold-lastig (7d vs 28d Shift)
 
-Du bist 2 Tage nach dem Wien Marathon (3:13h) in der Post-Marathon Recovery-Phase. Readiness ist "GO", aber die Intensitätsverteilung der letzten 7 Tage zeigt 55% Grey Zone (Z3) - weit über dem 80/20-Ideal. Phase: Base, aber mit Übergang zu "Threshold"-TID akut vs. "Pyramidal" chronisch.
+### Tagesplan
 
-**Prioritäten:** Vollständige Marathon-Erholung + sanfte Rad-Gewöhnung für Eschborn Frankfurt (1. Mai).
+**Montag 22.04.** - Ruhetag (fixiert)
 
-## 2) Tagesplan
+**Dienstag 23.04.** - Easy Rad
+- Dauer: 60 min
+- Zone: Z1-Z2 (HR <162 bpm)
+- Zweck: Rad-Gewöhnung, aktive Recovery
 
-| Tag | Aktivität | Dauer | HR-Zone | Anmerkungen |
-|-----|-----------|-------|---------|-------------|
-| **Montag 22.04** | Ruhetag | - | - | Fester Ruhetag |
-| **Dienstag 23.04** | Rad Easy | 60 min | Z1 (< 142 bpm) | Erste Rad-Gewöhnung |
-| **Mittwoch 24.04** | Lauf Easy | 30 min | Z1 (< 142 bpm) | Post-Marathon Recovery |
-| **Donnerstag 25.04** | Rad Easy | 60 min | Z1-Z2 (142-162 bpm) | Rad-Gewöhnung |
-| **Freitag 26.04** | Lauf Easy oder Ruhe | 45 min | Z1 (< 142 bpm) | Optional, nach Gefühl |
-| **Samstag 27.04** | Ruhetag | - | - | Vor langer Einheit |
-| **Sonntag 28.04** | Rad Long Easy | 90 min | Z1-Z2 (142-162 bpm) | Längste Vorbereitung für Eschborn |
+**Mittwoch 24.04.** - Easy Run
+- Dauer: 30 min  
+- Zone: Z1 (HR <142 bpm)
+- Zweck: Post-Marathon Recovery
 
-## 3) Wochenvolumen
+**Donnerstag 25.04.** - Easy Rad
+- Dauer: 60 min
+- Zone: Z1-Z2 (HR <162 bpm)
+- Zweck: Rad-Gewöhnung
 
-- **Gesamtvolumen:** ~4,5-5,0 Stunden
-- **Verteilung:** 60% Rad, 40% Laufen
-- **Intensität:** 100% Z1-Z2 (Recovery-Fokus)
-- **TSS-Ziel:** ~180-220 (deutlich reduziert)
+**Freitag 26.04.** - Easy Run oder Ruhe
+- Dauer: 45 min (optional)
+- Zone: Z1 (HR <142 bpm)
+- Zweck: Recovery, je nach Befinden
 
-**Fokus:** Aktive Erholung, Rad-Gewöhnung, minimaler Belastungsaufbau vor Eschborn Frankfurt. Die Grey Zone muss in dieser Woche eliminiert werden - nur Z1-Z2!
+**Samstag 27.04.** - Easy Rad (längste Einheit)
+- Dauer: 90 min
+- Zone: Z1-Z2 (HR <162 bpm)
+- Zweck: Distanz-Gewöhnung für Eschborn
+
+**Sonntag 28.04.** - Ruhe oder kurzer Walk
+- Aktive Erholung vor Eschborn-Woche
+
+### Wochenvolumen
+- Laufen: ~2h15min
+- Rad: ~3h30min  
+- Gesamt: ~5h45min
+- TSS-Ziel: ~180-200 (niedrig für Recovery)
+
+### Hinweise
+- Alle Einheiten entspannt, kein Druck
+- Bei Müdigkeit Einheiten kürzen oder streichen
+- Eschborn als Spaß-Event nutzen, nicht als Performance-Test
+- Nach Eschborn weitere 1,5 Wochen Recovery einplanen
