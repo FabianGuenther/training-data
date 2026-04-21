@@ -63,6 +63,7 @@
 2. Trail-specific prep for Zugspitz Ultratrail 29 km (until June)
 3. Summer base building
 4. Autumn half marathon build
+5. Spring 2027 fast Halfmarathon and Marathon
 
 ---
 
@@ -90,6 +91,7 @@
 - **Environment:** Outdoor only
 - **Terrain:** Trails preferred. No major mountains nearby — flat/rolling trail terrain typical.
 - **Indoor training:** None
+- **Bike training:** Especialy on the weekends and more as an alternative. Running is the primary focus.
 
 ---
 
