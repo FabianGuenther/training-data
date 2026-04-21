@@ -45,10 +45,12 @@
 
 | Date | Event | Notes |
 |------|-------|-------|
-| ~4 weeks ago | Half Marathon | — |
-| 2 days ago | Marathon | Currently in recovery |
-| June 2026 | Zugspitz Ultratrail 29 km | Next target event |
+| 22. March 2026 | Half Marathon Frankfurt| Time: 1:29:29h |
+| 19. April 2026 | Wien Marathon | Time: 3:13 | Currently in recovery |
+|01. May 2026 | Eschborn Frankfurt Bike Race with 85km and 1200 positive meters in altitude | Next target event |
+| 19. June 2026 | Zugspitz Ultratrail 29 km with 1600 positive meters in altitude| Next target event |
 | Autumn 2026 | Half Marathon | Goal event (date TBD) |
+| Spring 2027 | Fast Half Marathon and Marathon | Goal Sub 1:25h for Halfmarathon and Sub 3 Hours for Marathon |
 
 ---
 
