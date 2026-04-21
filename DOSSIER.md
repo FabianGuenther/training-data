@@ -1,0 +1,110 @@
+# Athlete Dossier
+
+## Identity
+- **Name:** Fabian
+- **Age:** 32
+- **Primary sport:** Running
+- **Secondary sport:** Cycling (recreational, active from spring)
+
+---
+
+## Physiology & Zones
+
+### Heart Rate
+- **Resting HR:** 51 bpm
+- **Max HR:** 189 bpm
+- **Lactate Threshold HR (LTHR):** ~171 bpm (self-estimated)
+
+### Power
+- **FTP:** N/A — no power meter. HR-based analysis only for all sports.
+- **Zone preference:** `run:hr,cycling:hr`
+
+### Training Zones (HR-based, derived from LTHR 171 / Max 189)
+| Zone | Name | HR Range |
+|------|------|----------|
+| Z1 | Recovery | < 142 bpm |
+| Z2 | Aerobic Base | 142–162 bpm |
+| Z3 | Tempo / Grey Zone | 162–171 bpm |
+| Z4 | Threshold | 171–180 bpm |
+| Z5 | VO2max | > 180 bpm |
+
+*(Zones are estimates based on LTHR. Adjust once Intervals.icu zones are calibrated.)*
+
+---
+
+## Training Background
+
+- **Years training:** ~9 years (consistent), with a break 2021–2023
+- **Current weekly volume:** 5–8 hours depending on training phase
+- **Sessions per week:** 3–5 running + 1–2 cycling (spring/summer, cycling replaces run sessions)
+- **Long run capability:** Has trained 100+ km/week, back-to-back marathon weekends, 80 km trail races with 4000 hm
+
+---
+
+## Recent Race History
+
+| Date | Event | Notes |
+|------|-------|-------|
+| ~4 weeks ago | Half Marathon | — |
+| 2 days ago | Marathon | Currently in recovery |
+| June 2026 | Zugspitz Ultratrail 29 km | Next target event |
+| Autumn 2026 | Half Marathon | Goal event (date TBD) |
+
+---
+
+## Current Training Phase
+
+**Post-marathon recovery** — 2 days post-race. Immediate priority is recovery before transitioning to trail-specific preparation for Zugspitz Ultratrail (June).
+
+**Planned phases:**
+1. Recovery (now — ~2–3 weeks)
+2. Trail-specific prep for Zugspitz Ultratrail 29 km (until June)
+3. Summer base building
+4. Autumn half marathon build
+
+---
+
+## Goals
+
+### Short-term
+- Full recovery from marathon
+- Prepare for Zugspitz Ultratrail 29 km (June 2026)
+
+### Medium-term
+- Strong autumn half marathon (goal time TBD — to be discussed as fitness develops)
+
+### Long-term (Spring 2027)
+- Half Marathon sub 1:25
+- Marathon sub 3:00
+
+---
+
+## Training Preferences
+
+- **Structure:** Prefers structured training blocks with built-in flexibility
+- **Planning cadence:** Weekly review before each new week + 2–3 week block previews
+- **Rest days:** Monday (fixed rest day). Friday rest day when on 5-session weeks.
+- **Hard session days:** Flexible — Tuesday, Wednesday, Thursday, Saturday, Sunday
+- **Environment:** Outdoor only
+- **Terrain:** Trails preferred. No major mountains nearby — flat/rolling trail terrain typical.
+- **Indoor training:** None
+
+---
+
+## Equipment
+
+- **Devices:** Garmin (primary) + Suunto (connected to Intervals.icu)
+- **Power meter:** None
+- **HR monitor:** Device-integrated (chest strap status unknown — update if applicable)
+- **Data sync:** Direct Garmin + Suunto → Intervals.icu
+
+---
+
+## Coaching Notes
+
+- Athlete has significant endurance base and ultra experience — not a beginner despite the 2021–2023 break
+- HR-based coaching only (no power data)
+- Cycling is cross-training, not performance-focused — no cycling-specific targets needed
+- Flexible weekly planning is important due to family and work constraints
+- Trail running is preferred but accessible terrain is flat/rolling — long runs and vertical gain may need to be simulated on available terrain
+- Post-marathon recovery must be respected before any intensity resumption
