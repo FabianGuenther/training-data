@@ -4,54 +4,54 @@ Erstellt am: 2026-04-21
 
 ---
 
-**TRAININGSPLAN WOCHE 22.–28. APRIL 2026**
+# Trainingsplan Woche 22.-28. April 2026
 
-## 1) LAGEBEWERTUNG
-Du befindest dich in der Marathon-Recovery-Phase (2 Tage post Wien Marathon 3:13h). Die Daten zeigen moderate Belastung in der letzten Woche mit dominanter Grauer-Zone-Zeit (55%) - typisch für Marathon-Erholung. Phase: Base mit mittlerer Konfidenz. TID-Drift warnt vor zu viel Tempo-Arbeit (7d: Threshold vs 28d: Pyramidal). Readiness Decision: GO, aber 4 von 6 Signalen nicht verfügbar.
+## 1) Kurze Lagebewertung
 
-**Priorität:** Vollständige Regeneration vor trail-spezifischer Vorbereitung auf Zugspitz Ultratrail (Juni).
+**Aktuelle Situation:** Post-Marathon Recovery (2 Tage nach Wien Marathon 3:13h)
+- **Phase:** Recovery 1 - Doppelbelastung Marathon + Eschborn Frankfurt
+- **Readiness:** Go (P3 green light, ACWR 1.26 optimal)
+- **TID-Warnung:** 7d Threshold vs 28d Pyramidal - Intensitätsverteilung derzeit verschoben
+- **Priorität:** Sanfte Erholung + Rad-Gewöhnung für Eschborn Frankfurt (1. Mai)
 
-## 2) TAGESPLAN
+## 2) Tagesplan (Mo-So)
 
-**Montag 22.04** - Ruhetag (festgelegt)
-- Keine Aktivität oder leichte Mobilität
+**Montag 22.4:** Ruhetag (fixiert)
 
-**Dienstag 23.04** - Lockerer Lauf
-- 30-45 min Z1 (< 142 bpm)
-- Outdoor, ebenes Gelände
-- Fokus: Bewegung ohne Belastung
+**Dienstag 23.4:** Easy Run Z1-Z2, 30-45min
+- HR-Ziel: 130-150 bpm (Z1-Z2)
+- Fokus: Post-Marathon Recovery, leichte Bewegung
 
-**Mittwoch 24.04** - Aktive Erholung
-- 45-60 min Z1-Z2 (142-155 bpm)
-- Trails wenn möglich
-- Optional: 5-10 min Laufgymnastik
+**Mittwoch 24.4:** Easy Radfahren Z1-Z2, 60min
+- HR-Ziel: 130-150 bpm
+- Fokus: Gewöhnung ans Rad für Eschborn
 
-**Donnerstag 25.04** - Lockerer Lauf
-- 45-60 min Z1 (< 142 bpm)
-- Ebenes Gelände
-- Fokus: Aerobe Erholung
+**Donnerstag 25.4:** Easy Run Z1, 30min
+- HR-Ziel: <142 bpm (Z1 nur)
+- Fokus: Aktive Recovery
 
-**Freitag 26.04** - Ruhetag oder leichte Aktivität
-- Optional: 20-30 min lockerer Walk/Lauf Z1
-- Vorbereitung auf Wochenende
+**Freitag 26.4:** Easy Radfahren Z1-Z2, 60min
+- HR-Ziel: 130-155 bpm
+- Fokus: Weitere Rad-Gewöhnung
 
-**Samstag 27.04** - Längerer lockerer Lauf
-- 75-90 min Z1-Z2 (< 155 bpm)
-- Trails bevorzugt
-- Erste längere Einheit post-Marathon
+**Samstag 27.4:** Easy Run Z1-Z2, 45min ODER Ruhe
+- HR-Ziel: 130-150 bpm (falls aktiv)
+- Option: Komplette Ruhe je nach Gefühl
 
-**Sonntag 28.04** - Aktive Erholung
-- 45-60 min Z1 (< 142 bpm)
-- Optional: Radfahren statt Laufen
+**Sonntag 28.4:** Easy Radfahren Z1-Z2, 90min
+- HR-Ziel: 130-155 bpm
+- Fokus: Längste Rad-Einheit zur Eschborn-Vorbereitung
 
-## 3) WOCHENVOLUMEN GESAMT
-- **Zielstunden:** 4,5-6 Stunden
-- **Intensität:** 95%+ Z1-Z2 (Grauer-Zone minimieren)
-- **Laufumfang:** ~35-50 km
-- **Radfahren:** Optional 1-2 Sessions als Cross-Training
+## 3) Wochenvolumen
 
-**Wichtige Hinweise:**
-- Kein strukturiertes Training diese Woche
-- Herzfrequenz-Obergrenze: 155 bpm
-- Bei Müdigkeit/Schmerzen: Session ausfallen lassen
-- Fokus auf Schlaf und Ernährung für Recovery
+**Geplantes Gesamtvolumen:** 4,5-5,5h
+- **Laufen:** 1,5-2,5h (je nach Samstag-Entscheidung)
+- **Radfahren:** 3,25h
+- **TSS-Ziel:** ~200-250 (Recovery-angepasst)
+
+**Nächste Woche (29.4-1.5):**
+- Montag: Ruhetag
+- Dienstag: Rad-Opener 45min mit 3x 5min Z3
+- Mittwoch: Easy Run 30min
+- Donnerstag: Ruhe
+- Freitag: **Eschborn Frankfurt** (Spaß-Modus, ankommen ist Ziel)
