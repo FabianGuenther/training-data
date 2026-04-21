@@ -1,41 +1,40 @@
 # Makrozyklus-Trainingsplan Fabian (April 2026 - Mai 2027)
-Angepasst für Eschborn Frankfurt als Recovery-Event
+Überarbeitet mit korrekten Daten
 
-## Phaseneinteilung (Revidiert)
+Ausgangslage: Wien Marathon 3:13h am 19.04.2026, aktuell Post-Marathon Recovery, HR-basiertes Training
 
-| Phase | Zeitraum | Wochen | Fokus | Ziel-CTL | Schlüsseleinheiten | Begründung |
-|-------|----------|--------|-------|----------|-------------------|------------|
-| Recovery 1 | 21.04 - 27.04 | 1 | Post-Marathon + Rad-Gewöhnung | 20-25 | 2x Easy Rad Z1-Z2, 1-2x Easy Run | Doppelbelastung minimieren, ans Rad gewöhnen |
-| Pre-Eschborn | 28.04 - 01.05 | 3 Tage | Opener + Event | 25-30 | 1x Rad-Opener, Eschborn (Spaß) | Event als aktive Recovery nutzen |
-| Post-Event Recovery | 02.05 - 11.05 | 1,5 | Vollständige Erholung | 15-25 | Nur Easy Runs Z1, optional Easy Rad | Marathon + 85km Rad = doppelte Recovery nötig |
-| ZUT Base 1 | 12.05 - 08.06 | 4 | Trail-spezifische Basis | 45-60 | Long Runs Z2, Hill Repeats, Weekend Rad | Zugspitz Vorbereitung, Rad nur Wochenende |
-| ZUT Peak | 09.06 - 19.06 | 1,5 | Trail-Sharpening + Event | 50-65 | Hill Intervals, ZUT Race | Finale Vorbereitung + Ultratrail |
-| Recovery 2 | 20.06 - 03.07 | 2 | Post-Ultratrail | 25-35 | Easy Runs Z1-Z2, Weekend Rad | Erholung nach 29km/1600hm |
-| Base 2 | 04.07 - 31.07 | 4 | Aerobe Basis Rebuild | 50-65 | Long Runs Z2, Tempo Z3, Weekend Rad | Basis für HM-Build |
-| Build 1 | 01.08 - 28.08 | 4 | Threshold Development | 65-80 | 2x Threshold Z4/Woche, Long Runs | HM-spezifische Schwellenarbeit |
-| Build 2 | 29.08 - 25.09 | 4 | VO2max + Speed | 75-85 | Intervals Z5, Tempo Z4, Race Pace | Geschwindigkeitsaufbau für Sub-1:25 |
-| Peak HM | 26.09 - 09.10 | 2 | HM Vorbereitung | 80-90 | Race Pace, Sharpening | Spezifische HM-Vorbereitung |
-| Taper HM | 10.10 - 20.10 | 1,5 | Pre-Race Taper | 55-70 | Opener, Race Pace Touches | 10-14 Tage Taper für HM |
-| HM Race | Okt 2026 | 1 Tag | Herbst Halbmarathon | - | Wettkampf | Saisonhöhepunkt |
-| Winter Base | Nov 2026 - Jan 2027 | 12 | Marathon Base Building | 65-95 | Long Runs, Progressive Builds | Marathonbasis für Sub-3:00 |
-| Marathon Build | Feb - März 2027 | 8 | Marathon Finalization | 95-110 | Marathon Pace, VO2max | Sub-3:00 Vorbereitung |
+## Phaseneinteilung (Final)
 
-## Sofortiger Fokus (nächste 10 Tage)
+| Phase | Zeitraum | Dauer | Fokus | Ziel-CTL | Schlüsseleinheiten | Begründung |
+|-------|----------|-------|-------|----------|-------------------|------------|
+| Recovery 1 | 21.04 - 01.05 | 11 Tage | Post-Marathon + Eschborn | 20-30 | Easy Runs Z1, Easy Rad Z1-Z2, Eschborn (Spaß) | Doppel-Recovery: Marathon + 85km Event |
+| Recovery 2 | 02.05 - 18.05 | 2,5 Wo | Vollständige Erholung | 15-30 | Nur Easy Runs Z1-Z2, optionales Easy Rad | Nach Marathon + Radrennen komplette Erholung |
+| ZUT Base | 19.05 - 15.06 | 4 Wo | Trail-spezifische Basis | 45-60 | Long Runs Z2, Hill Repeats, Trail-Technik | Zugspitz Ultratrail Vorbereitung, aerobe Basis |
+| ZUT Sharpening | 16.06 - 19.06 | 4 Tage | Pre-Race Sharpening | 55-65 | Hill Intervals kurz, Opener | Finale Vorbereitung Zugspitz Ultratrail |
+| Zugspitz Ultratrail | 19.06 | 1 Tag | 29km / 1600hm Race | - | Wettkampf | Trail-Saisonhöhepunkt |
+| Recovery 3 | 20.06 - 13.07 | 3,5 Wo | Post-Ultratrail | 25-40 | Easy Runs Z1-Z2, Rad-Crosstraining | Erholung nach Ultratrail |
+| Base Building | 14.07 - 10.08 | 4 Wo | Aerobe Basis Rebuild | 50-70 | Long Runs Z2, Tempo Z3, Weekend Rad | Basis für Herbst-HM Vorbereitung |
+| Build 1 | 11.08 - 07.09 | 4 Wo | Threshold Development | 65-80 | 2x Threshold Z4/Woche, Long Runs | HM-spezifische Schwellenentwicklung |
+| Build 2 | 08.09 - 05.10 | 4 Wo | VO2max + Speed | 75-90 | Intervals Z5, Race Pace, Tempo Z4 | Geschwindigkeit für Sub-1:25 Ziel |
+| HM Taper | 06.10 - 19.10 | 2 Wo | Pre-Race Taper | 55-75 | Race Pace, Opener, Volumenreduktion | Mujika Taper: 40-60% weniger Volumen |
+| Herbst HM | Okt 2026 | 1 Tag | Halbmarathon Ziel | - | Wettkampf | Herbst-Saisonhöhepunkt |
+| Off-Season | Nov - Dez 2026 | 8 Wo | Aktive Erholung | 30-55 | Easy Runs, Cross-Training, Basis | Mentale Pause, aerobe Basis halten |
+| Marathon Base 1 | Jan 2027 | 4 Wo | Volumenaufbau | 60-80 | Long Runs Z2, Progressive Builds | Marathon-Basis für Sub-3:00 |
+| Marathon Base 2 | Feb 2027 | 4 Wo | Marathon-spezifisch | 80-100 | Long Runs, Marathon Pace, Threshold | Marathonspezifische Ausdauer |
+| Marathon Build | März 2027 | 4 Wo | Speed + Sharpening | 95-110 | VO2max Z5, Race Pace, Simulation | Sub-3:00 Finalisierung |
+| Marathon Taper | April 2027 | 2-3 Wo | Pre-Marathon Taper | 70-85 | Race Pace, Opener, 50% Volumen | 3-Wochen Taper für Hauptziel |
+| Sub-3 Marathon | April/Mai 2027 | 1 Tag | Sub-3:00 + HM Sub-1:25 | - | Wettkampf | Saison-Hauptziele |
 
-Diese Woche (22.-27. April):
-- 2x Easy Rad 60-90min Z1-Z2 (Gewöhnung)
-- 1-2x Easy Run 30-45min Z1 (Recovery)
-- Montag: Ruhetag (wie immer)
+## Wissenschaftliche Grundlagen
 
-Nächste Woche bis Eschborn:
-- Dienstag: Rad-Opener 45min mit 3x 5min Z3
-- Mittwoch: Easy Run 30min
-- Donnerstag: Ruhe
-- Freitag: Rad locker 30min oder Ruhe
-- Samstag: Eschborn Frankfurt (Spaß, ankommen ist das Ziel)
+- Seiler 80/20: Polarisierte Verteilung in Base-Phasen (Z1-Z2: 80%, Z4+: 20%)
+- Gabbett ACWR: Sichere Progression 0.8-1.3 Ratio
+- Mujika Taper: 40-60% Volumenreduktion bei Intensitätserhalt
+- Issurin Block Periodization: Akkumulation → Intensivierung → Realisierung
+- Friel Age-Adjusted: Angepasst für 32 Jahre, Erfahrungslevel berücksichtigt
 
-## Radverteilung ab Mai
+## Rad-Integration
 
-- Hauptfokus: Laufen für ZUT und HM-Ziele  
-- Rad: Primär Wochenenden, als Alternative zu 2. Laufeinheit
-- Verhältnis: ~75% Laufen, 25% Rad (außer in Recovery-Phasen)
+- April-Mai: Recovery-Tool und Crosstraining
+- Juni-Oktober: Primär Wochenenden, ersetzt 2. Laufeinheit
+- November-Mai 2027: Minimal, Fokus auf Marathon-Laufziele
