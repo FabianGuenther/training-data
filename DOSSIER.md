@@ -22,11 +22,11 @@
 ### Training Zones (HR-based, derived from LTHR 171 / Max 189)
 | Zone | Name | HR Range |
 |------|------|----------|
-| Z1 | Recovery | < 142 bpm |
-| Z2 | Aerobic Base | 142–162 bpm |
-| Z3 | Tempo / Grey Zone | 162–171 bpm |
-| Z4 | Threshold | 171–180 bpm |
-| Z5 | VO2max | > 180 bpm |
+| Z1 | Recovery | < 135 bpm |
+| Z2 | Aerobic Base | 135–150 bpm |
+| Z3 | Tempo / Grey Zone | 151–160 bpm |
+| Z4 | Threshold | 161–169 bpm |
+| Z5 | VO2max | > 169 bpm |
 
 *(Zones are estimates based on LTHR. Adjust once Intervals.icu zones are calibrated.)*
 
