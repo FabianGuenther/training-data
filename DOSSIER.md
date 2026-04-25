@@ -20,13 +20,25 @@
 - **Zone preference:** `run:hr,cycling:hr`
 
 ### Training Zones (HR-based, derived from LTHR 171 / Max 189)
-| Zone | Name | HR Range |
-|------|------|----------|
-| Z1 | Recovery | < 135 bpm |
-| Z2 | Aerobic Base | 135–150 bpm |
-| Z3 | Tempo / Grey Zone | 151–160 bpm |
-| Z4 | Threshold | 161–169 bpm |
-| Z5 | VO2max | > 169 bpm |
+| Zone | Name | HR Range | Pace (min/km) |
+|------|------|----------|---------------|
+| Z1 | Recovery | < 135 bpm | > 5:30 |
+| Z2 | Aerobic Base | 135–150 bpm | 5:00–5:30 |
+| Z3 | Tempo / Grey Zone | 151–160 bpm | 4:35–4:50 |
+| Z4 | Threshold | 161–169 bpm | 4:15–4:30 |
+| Z5 | VO2max | > 169 bpm | 3:50–4:10 |
+
+**Pace-Referenzen abgeleitet von:**
+- Wien Marathon 19.04.2026: 3:13h (~4:35/km)
+- HM Frankfurt 22.03.2026: 1:29:29 (~4:15/km)
+- Methodik: Jack Daniels VDOT-Tabellen
+
+**Pace-Anwendungsregeln:**
+- HR ist Primärsteuerung, Pace ist Orientierung
+- Pace-Angaben PFLICHT bei strukturierten Intervallen (Z4, Z5)
+- Pace-Angaben PFLICHT bei Tempoläufen (Z3-Z4)
+- Pace als Richtwert bei Easy/Long Runs (Z1-Z2)
+- Bei Hitze (>25°C), schwerer Recovery oder Trail/Hügeln: HR zählt, Pace entfällt
 
 *(Zones are estimates based on LTHR. Adjust once Intervals.icu zones are calibrated.)*
 
@@ -47,8 +59,8 @@
 |------|-------|-------|
 | 22. March 2026 | Half Marathon Frankfurt| Time: 1:29:29h |
 | 19. April 2026 | Wien Marathon | Time: 3:13 | Currently in recovery |
-|01. May 2026 | Eschborn Frankfurt Bike Race with 85km and 1200 positive meters in altitude | Next target event |
-| 19. June 2026 | Zugspitz Ultratrail 29 km with 1600 positive meters in altitude| Next target event |
+| Friday 01. May 2026 | Eschborn Frankfurt Bike Race with 85km and 1200 positive meters in altitude | Next target event |
+| Friday 19. June 2026 | Zugspitz Ultratrail 29 km with 1600 positive meters in altitude| Next target event |
 | Autumn 2026 | Half Marathon | Goal event (date TBD) |
 | Spring 2027 | Fast Half Marathon and Marathon | Goal Sub 1:25h for Halfmarathon and Sub 3 Hours for Marathon |
 
