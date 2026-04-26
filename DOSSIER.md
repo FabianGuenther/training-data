@@ -12,8 +12,10 @@
 
 ### Heart Rate
 - **Resting HR:** 51 bpm
-- **Max HR:** 189 bpm
-- **Lactate Threshold HR (LTHR):** ~171 bpm (self-estimated)
+- **Max HR (Running):** 189 bpm
+- **Max HR (Cycling):** 181 bpm
+- **LTHR Running:** ~171 bpm (self-estimated)
+- **LTHR Cycling:** ~161 bpm (self-estimated)
 
 ### Power
 - **FTP:** N/A — no power meter. HR-based analysis only for all sports.
