@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26T10:28:32.817583",
+  "generated_at": "2026-04-26T11:12:02.347107",
   "version": "3.104",
   "script_hash": "744b8033c4af",
   "scan_hours": 72,
@@ -605,6 +605,59 @@
           "avg_hr": 134,
           "max_hr": 138,
           "avg_cadence": 79.138885,
+          "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i143061414",
+      "date": "2026-04-26",
+      "type": "Ride",
+      "name": "Lunch Radfahren",
+      "interval_summary": [
+        "3x 22m37s 137bpm",
+        "1x 18m6s 129bpm",
+        "1x 12m16s 122bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "1357s@137bpm",
+          "duration_secs": 1346,
+          "avg_hr": 140,
+          "max_hr": 186,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "1357s@137bpm",
+          "duration_secs": 1236,
+          "avg_hr": 138,
+          "max_hr": 184,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "1357s@137bpm",
+          "duration_secs": 1489,
+          "avg_hr": 134,
+          "max_hr": 160,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "1086s@129bpm",
+          "duration_secs": 1086,
+          "avg_hr": 129,
+          "max_hr": 145,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "736s@122bpm",
+          "duration_secs": 736,
+          "avg_hr": 122,
+          "max_hr": 151,
           "zone": 1
         }
       ]
