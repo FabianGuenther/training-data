@@ -76,7 +76,6 @@
 | Friday 01. May 2026 | Eschborn Frankfurt Bike Race with 85km and 1200 positive meters in altitude | Next target event |
 | Friday 19. June 2026 | Zugspitz Ultratrail 29 km with 1600 positive meters in altitude | Next target event |
 | Sunday 27. September 2026 | Kulmbach Trails 15 km with 680 positve meters in altitude | Next target event |
-| Autumn 2026 | Half Marathon | Goal event (date TBD) |
 | Spring 2027 | Fast Half Marathon and Marathon | Goal Sub 1:25h for Halfmarathon and Sub 3 Hours for Marathon |
 
 ---
