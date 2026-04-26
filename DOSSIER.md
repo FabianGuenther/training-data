@@ -33,11 +33,23 @@
 - HM Frankfurt 22.03.2026: 1:29:29 (~4:15/km)
 - Methodik: Jack Daniels VDOT-Tabellen
 
+- ### Training Zones — Radfahren (HR = Laufzonen −10 bpm)
+| Zone | Name | HR Range |
+|------|------|----------|
+| Z1 | Recovery | < 125 bpm |
+| Z2 | Aerobic Base | 125–140 bpm |
+| Z3 | Tempo / Grey Zone | 141–150 bpm |
+| Z4 | Threshold | 151–159 bpm |
+| Z5 | VO2max | > 159 bpm |
+
+**Keine Pace-Angaben beim Radfahren — HR ist alleinige Steuerung.**
+
 **Pace-Anwendungsregeln:**
 - HR ist Primärsteuerung, Pace ist Orientierung
 - Pace-Angaben PFLICHT bei strukturierten Intervallen (Z4, Z5)
 - Pace-Angaben PFLICHT bei Tempoläufen (Z3-Z4)
 - Pace als Richtwert bei Easy/Long Runs (Z1-Z2)
+- Keine Pace bei Radeinheiten, HR alleinige Steuerung
 - Bei Hitze (>25°C), schwerer Recovery oder Trail/Hügeln: HR zählt, Pace entfällt
 
 *(Zones are estimates based on LTHR. Adjust once Intervals.icu zones are calibrated.)*
