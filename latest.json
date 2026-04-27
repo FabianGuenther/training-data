@@ -62,15 +62,15 @@
       "menstrual": "menstrual_phase and menstrual_phase_predicted are not on the 1-4 scale. Values: PERIOD, FOLLICULAR, OVULATION, LUTEAL, etc."
     },
     "quick_stats": {
-      "total_training_hours": 2.01,
-      "total_training_formatted": "2h",
-      "total_activities": 2,
+      "total_training_hours": 3.57,
+      "total_training_formatted": "3h34m",
+      "total_activities": 3,
       "total_tss": 94
     }
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-04-27T15:18:21.741266",
+    "last_updated": "2026-04-27T17:02:13.917929",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.104"
@@ -159,14 +159,14 @@
   "summary": {
     "period_description": "Last 7 days of training (including today)",
     "note": "Duration calculated from API moving_time field.",
-    "total_duration_decimal_hours": 2.01,
-    "total_activities": 2,
+    "total_duration_decimal_hours": 3.57,
+    "total_activities": 3,
     "by_activity_type": {
       "Ride": {
-        "duration_decimal_hours": 1.57,
-        "count": 1,
+        "duration_decimal_hours": 3.13,
+        "count": 2,
         "tss": 73,
-        "distance_km": 43.5
+        "distance_km": 87.1
       },
       "Run": {
         "duration_decimal_hours": 0.44,
@@ -503,12 +503,12 @@
     "p_max": null,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-04-27T15:18:21.740535",
+    "calculation_timestamp": "2026-04-27T17:02:13.917220",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 0,
-      "activities_7d": 2,
-      "activities_28d": 14,
+      "activities_7d": 3,
+      "activities_28d": 15,
       "planned_workouts_7d": 0,
       "ftp_history_days": {
         "indoor": 0,
@@ -565,6 +565,46 @@
         }
       },
       "has_intervals": true,
+      "has_dfa": false
+    },
+    {
+      "id": "i143442223",
+      "date": "2026-04-26T11:18:40",
+      "type": "Ride",
+      "name": "Bamberg Rennradfahren",
+      "duration_hours": 1.57,
+      "distance_km": 43.59,
+      "tss": null,
+      "intensity_factor": null,
+      "avg_power": null,
+      "normalized_power": null,
+      "avg_hr": null,
+      "max_hr": null,
+      "avg_cadence": null,
+      "avg_speed": 27.8,
+      "avg_speed_unit": "KPH",
+      "max_speed": 55.5,
+      "max_speed_unit": "KPH",
+      "avg_pace": null,
+      "avg_temp": 17.320383,
+      "avg_temp_unit": "C",
+      "weather": null,
+      "humidity": null,
+      "wind_speed": null,
+      "wind_speed_unit": "KMH",
+      "work_kj": null,
+      "calories": 1594,
+      "carbs_used": null,
+      "carbs_ingested": 50,
+      "variability_index": null,
+      "decoupling": null,
+      "efficiency_factor": null,
+      "hrrc": null,
+      "elevation_m": 309.0,
+      "feel": null,
+      "rpe": null,
+      "zone_distribution": null,
+      "has_intervals": false,
       "has_dfa": false
     },
     {
@@ -1503,10 +1543,10 @@
     "bail_no_match": 0
   },
   "weekly_summary": {
-    "total_training_hours": 2.01,
-    "total_training_formatted": "2h",
+    "total_training_hours": 3.57,
+    "total_training_formatted": "3h34m",
     "total_tss": 94,
-    "activities_count": 2,
+    "activities_count": 3,
     "avg_hrv": null,
     "avg_resting_hr": null
   },
