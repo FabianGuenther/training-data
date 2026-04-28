@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T13:10:57.032112",
+  "generated_at": "2026-04-28T15:36:45.463543",
   "version": "3.104",
   "script_hash": "744b8033c4af",
   "scan_hours": 72,
@@ -659,6 +659,64 @@
           "avg_hr": 122,
           "max_hr": 151,
           "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i143736212",
+      "date": "2026-04-28",
+      "type": "Run",
+      "name": "Afternoon Laufen",
+      "interval_summary": [
+        "3x 5m15s 134bpm",
+        "1x 6m39s 133bpm",
+        "1x 3m30s 139bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "315s@134bpm81rpm",
+          "duration_secs": 311,
+          "avg_hr": 129,
+          "max_hr": 142,
+          "avg_cadence": 80.78218,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "315s@134bpm81rpm",
+          "duration_secs": 311,
+          "avg_hr": 136,
+          "max_hr": 147,
+          "avg_cadence": 80.11254,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "315s@134bpm81rpm",
+          "duration_secs": 324,
+          "avg_hr": 136,
+          "max_hr": 145,
+          "avg_cadence": 80.765434,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "399s@133bpm71rpm",
+          "duration_secs": 399,
+          "avg_hr": 133,
+          "max_hr": 141,
+          "avg_cadence": 71.24561,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "210s@139bpm81rpm",
+          "duration_secs": 210,
+          "avg_hr": 139,
+          "max_hr": 145,
+          "avg_cadence": 80.52857,
+          "zone": 2
         }
       ]
     }
