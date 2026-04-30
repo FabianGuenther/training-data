@@ -29,3 +29,28 @@ Historische Morgenchecks für Kontext und Lernzwecke.
 - **Morgen:** Ruhetag (planmäßig im Kalender eingetragen)
 - 4 autonome Signale fehlen (HRV/RHR/Schlaf/RI) - auf Körpergefühl hören
 - Gestriger Lauf bestätigt: Körper bereit für sanfte Belastung
+
+---
+
+## 2026-04-30
+
+# Morgencheck - Donnerstag, 30. April 2026
+
+## 1) Erholungsstatus
+**11 Tage nach Wien Marathon (3:13h)** - Post-Marathon-Recovery läuft planmäßig. TSB +4.7 zeigt positive Stabilisierung. TID-Alert: Verteilung verschiebt sich von Pyramidal (28d) zu Polarized (7d) - erwartetes Muster nach Marathon-Belastung.
+
+**Readiness:** Go (grünes Licht für Pre-Event-Ruhe)
+
+## 2) Gestriges Training
+**Mittwoch 29.04.:** 55 min Radfahren, 125 bpm Ø, TSS 33 - sehr gute letzte Vorbereitung vor Eschborn Frankfurt! HR perfekt in Z1 (< 135 bpm), idealer Rad-Opener.
+
+## 3) Empfehlung für heute
+**Ruhetag** (planmäßig im Kalender eingetragen)
+- Letzter Ruhetag vor Eschborn Frankfurt morgen
+- Mentale Vorbereitung und Equipment-Check
+
+## 4) Wichtige Hinweise
+- **Eschborn Frankfurt:** morgen (1. Mai, 85km/1200hm) - entspanntes Spaß-Event nutzen
+- 4 autonome Signale fehlen (HRV/RHR/Schlaf/RI) - auf Körpergefühl hören  
+- Marathon-Recovery hat weiterhin Priorität vor Event-Performance
+- Gestriger Rad-Opener bestätigt: Körper bereit für sanfte Belastung
