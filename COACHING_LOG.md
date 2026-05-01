@@ -54,3 +54,29 @@ Historische Morgenchecks für Kontext und Lernzwecke.
 - 4 autonome Signale fehlen (HRV/RHR/Schlaf/RI) - auf Körpergefühl hören  
 - Marathon-Recovery hat weiterhin Priorität vor Event-Performance
 - Gestriger Rad-Opener bestätigt: Körper bereit für sanfte Belastung
+
+---
+
+## 2026-05-01
+
+# Morgencheck - Freitag, 1. Mai 2026
+
+## 1) Erholungsstatus
+**12 Tage nach Wien Marathon (3:13h)** - Heute ist **ESCHBORN FRANKFURT Tag!** TSB +7.1 zeigt optimale Erholung. TID-Alert: Verteilung verschiebt sich von Pyramidal (28d) zu Polarized (7d) - erwartetes Post-Marathon-Muster.
+
+**Readiness:** Go (grünes Licht für Spaß-Event)
+
+## 2) Gestriges Training
+**Donnerstag 30.04.:** Ruhetag (planmäßig vor dem Event eingehalten)
+
+## 3) Empfehlung für heute
+**ESCHBORN FRANKFURT 85km / 1200hm**
+- Als entspanntes Spaß-Event angehen, nicht als Leistungstest
+- Marathon-Recovery hat immer noch Priorität vor Event-Performance
+- Z1-Z2 (< 150 bpm), bei Anstiegen auf Körpergefühl hören
+
+## 4) Wichtige Hinweise
+- 4 autonome Signale fehlen (HRV/RHR/Schlaf/RI) - auf Körpergefühl vertrauen
+- Die Vorbereitung war optimal: 55min Rad-Opener am Mittwoch + Ruhetag gestern
+- Nach dem Event erweiterte Recovery-Phase bis 18. Mai gemäß Makroplan
+- Viel Spaß beim Event! Marathon + 85km Rad = Doppelbelastung, danach entspannt erholen
