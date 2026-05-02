@@ -80,3 +80,29 @@ Historische Morgenchecks für Kontext und Lernzwecke.
 - Die Vorbereitung war optimal: 55min Rad-Opener am Mittwoch + Ruhetag gestern
 - Nach dem Event erweiterte Recovery-Phase bis 18. Mai gemäß Makroplan
 - Viel Spaß beim Event! Marathon + 85km Rad = Doppelbelastung, danach entspannt erholen
+
+---
+
+## 2026-05-02
+
+# Morgencheck - Samstag, 2. Mai 2026
+
+## 1) Erholungsstatus
+**13 Tage nach Wien Marathon (3:13h)** - Gute Erholung nach Eschborn Frankfurt gestern! TSB +8.2 zeigt optimale Post-Event-Recovery. TID-Alert: Verteilung weiterhin von Pyramidal (28d) zu Polarized (7d) - normaler Übergang nach Doppelbelastung Marathon + Event.
+
+**Readiness:** Go (grünes Licht für aktive Recovery)
+
+## 2) Gestriges Training
+**Freitag 01.05.:** Eschborn Frankfurt 85km/1200hm - super absolviert! 2h41min bei entspannten 148 bpm Ø mit 125g Carbs-Intake. Event perfekt als Spaß-Event genutzt.
+
+## 3) Empfehlung für heute
+**Ruhetag oder lockere aktive Recovery**
+- Wenn aktiv: 30-45 min Easy Run, Z1 (< 135 bpm), Pace > 5:30/km
+- Oder komplette Ruhe nach der Doppelbelastung
+- Nach Körpergefühl entscheiden
+
+## 4) Wichtige Hinweise
+- **Recovery-Phase:** Jetzt beginnt die erweiterte Recovery bis 18. Mai gemäß Makroplan
+- **Zugspitz Ultratrail:** 48 Tage (19. Juni) - nächste Trainingsphase startet in 2-3 Wochen
+- 4 autonome Signale fehlen (HRV/RHR/Schlaf/RI) - weiterhin auf Körpergefühl vertrauen
+- Doppelbelastung (Marathon + 85km Event) erfolgreich gemeistert - jetzt entspannt erholen
