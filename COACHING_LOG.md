@@ -132,3 +132,28 @@ Historische Morgenchecks für Kontext und Lernzwecke.
 - **Zugspitz Ultratrail:** 47 Tage (19. Juni) - nächste strukturierte Trainingsphase startet in 2 Wochen
 - 4 autonome Signale fehlen (HRV/RHR/Schlaf/RI) - auf Körpergefühl hören
 - Doppelbelastung erfolgreich gemeistert - jetzt sanft wieder in Routine einsteigen
+
+---
+
+## 2026-05-04
+
+# Morgencheck - Montag, 4. Mai 2026
+
+## 1) Erholungsstatus
+**15 Tage nach Wien Marathon (3:13h)** - Post-Marathon-Recovery läuft sehr gut! TSB +11.6 zeigt optimale Erholung. TID-Alert: Verteilung verschiebt sich von Pyramidal (28d) zu Base (7d) - erwarteter Übergang in Recovery-Phase.
+
+**Readiness:** Go (grünes Licht)
+
+## 2) Gestriges Training
+**Sonntag 03.05.:** Ruhetag oder aktive Recovery (letzter Eintrag nicht ersichtlich)
+
+## 3) Empfehlung für heute
+**Ruhetag** (wie immer montags)
+- Regulärer wöchentlicher Ruhetag
+- **Zugspitz Ultratrail:** 46 Tage (19. Juni) - nächste strukturierte Trainingsphase startet bald
+
+## 4) Wichtige Hinweise
+- **Recovery-Phase:** Erweiterte Erholung bis 18. Mai gemäß Makroplan läuft planmäßig
+- **Training diese Woche:** Sanfter Wiedereinstieg ins strukturierte Training möglich
+- 4 autonome Signale fehlen (HRV/RHR/Schlaf/RI) - auf Körpergefühl hören
+- Doppelbelastung (Marathon + 85km Event) erfolgreich gemeistert - Körper bereit für nächste Phase
