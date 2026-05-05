@@ -70,7 +70,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-05-05T17:47:26.191975",
+    "last_updated": "2026-05-05T19:08:08.880354",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.104"
@@ -247,7 +247,7 @@
       "respiration": null,
       "body_fat_pct": null,
       "abdomen_cm": null,
-      "steps": null,
+      "steps": 61,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
@@ -455,10 +455,8 @@
     },
     "phase_detection": {
       "phase": "Base",
-      "confidence": "medium",
-      "reason_codes": [
-        "NO_PLANNED_WORKOUTS"
-      ],
+      "confidence": "high",
+      "reason_codes": [],
       "basis": {
         "stream_1": {
           "ctl_slope": null,
@@ -473,7 +471,7 @@
           "current_week_hard_days_total": 0,
           "race_proximity": null,
           "next_week_load": null,
-          "plan_coverage_current_week": 0.0,
+          "plan_coverage_current_week": 1.67,
           "plan_coverage_next_week": 0.0
         },
         "data_quality": "good",
@@ -485,9 +483,7 @@
       "dossier_agreement": null
     },
     "phase_detected": "Base",
-    "phase_triggers": [
-      "NO_PLANNED_WORKOUTS"
-    ],
+    "phase_triggers": [],
     "seasonal_context": "Build / Early Race Season",
     "benchmark_indoor": {
       "current_ftp": null,
@@ -509,7 +505,7 @@
     "p_max": null,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-05-05T17:47:26.191256",
+    "calculation_timestamp": "2026-05-05T19:08:08.879656",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 0,
@@ -1489,7 +1485,7 @@
       "respiration": null,
       "body_fat_pct": null,
       "abdomen_cm": null,
-      "steps": null,
+      "steps": 5528,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
@@ -1528,7 +1524,7 @@
       "respiration": null,
       "body_fat_pct": null,
       "abdomen_cm": null,
-      "steps": null,
+      "steps": 61,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
@@ -1539,13 +1535,84 @@
       "readiness": null
     }
   ],
-  "planned_workouts": [],
+  "planned_workouts": [
+    {
+      "id": 108452014,
+      "date": "2026-05-06",
+      "name": "[AI Coach] Easy Radfahren oder Ruhe",
+      "type": "WORKOUT",
+      "sport_type": "Run",
+      "planned_tss": null,
+      "duration_hours": 1.0,
+      "duration_formatted": "1h",
+      "workout_summary": null,
+      "has_terrain": false,
+      "start_time": "06:00",
+      "description": "Z1-Z2 (< 150 bpm), Cross-Training Alternative nach K\u00f6rpergef\u00fchl"
+    },
+    {
+      "id": 108452016,
+      "date": "2026-05-07",
+      "name": "[AI Coach] Easy Run 2",
+      "type": "WORKOUT",
+      "sport_type": "Run",
+      "planned_tss": null,
+      "duration_hours": 0.75,
+      "duration_formatted": "45m",
+      "workout_summary": null,
+      "has_terrain": false,
+      "start_time": "06:00",
+      "description": "Z1 (< 135 bpm), Pace > 5:30/km, Lockere Recovery zwischen den l\u00e4ngeren Einheiten"
+    },
+    {
+      "id": 108452015,
+      "date": "2026-05-08",
+      "name": "[AI Coach] Ruhetag oder aktive Recovery",
+      "type": "WORKOUT",
+      "sport_type": "Run",
+      "planned_tss": null,
+      "duration_hours": 0.5,
+      "duration_formatted": "30m",
+      "workout_summary": null,
+      "has_terrain": false,
+      "start_time": "06:00",
+      "description": "Z1 (< 135 bpm) falls aktiv, nach K\u00f6rpergef\u00fchl entscheiden"
+    },
+    {
+      "id": 108452018,
+      "date": "2026-05-09",
+      "name": "[AI Coach] Long Run 1",
+      "type": "WORKOUT",
+      "sport_type": "Run",
+      "planned_tss": null,
+      "duration_hours": 1.42,
+      "duration_formatted": "1h25m",
+      "workout_summary": null,
+      "has_terrain": false,
+      "start_time": "06:00",
+      "description": "Z1-Z2 (< 150 bpm), Pace 5:00-5:30/km, Erste l\u00e4ngere Einheit, Grundlage f\u00fcr ZUT-Vorbereitung"
+    },
+    {
+      "id": 108452017,
+      "date": "2026-05-10",
+      "name": "[AI Coach] Easy Radfahren",
+      "type": "WORKOUT",
+      "sport_type": "Ride",
+      "planned_tss": null,
+      "duration_hours": 1.75,
+      "duration_formatted": "1h45m",
+      "workout_summary": null,
+      "has_terrain": false,
+      "start_time": "06:00",
+      "description": "Z1-Z2 (< 150 bpm), Cross-Training, l\u00e4ngste Einheit der Woche"
+    }
+  ],
   "workout_summary_stats": {
     "attempted": 0,
     "success": 0,
     "patternA": 0,
     "patternB": 0,
-    "bail_no_workout_doc": 0,
+    "bail_no_workout_doc": 5,
     "bail_no_match": 0
   },
   "weekly_summary": {
