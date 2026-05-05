@@ -138,11 +138,14 @@
 | Off-Season | 2x/Woche | Allgemeine Kraft |
 | Marathon Build | 1x → 0x | Auslaufen |
 
-### Timing-Regeln:
-- NIE am Tag vor einem harten Lauf (Intervalle, Tempo)
-- Ideal: Nach einem Easy Run oder an Ruhetagen
-- Mindestabstand zu hartem Lauf: 24h
-- Kein Krafttraining in der Taper-Woche vor Wettkampf
+### Timing-Regeln Krafttraining:
+- Laufen/Radfahren hat IMMER Vorrang vor Krafttraining
+- Krafttraining wird UM die Lauf/Rad-Einheiten herum geplant - niemals umgekehrt
+- Krafttraining NIE als Ersatz für eine Lauf- oder Radeinheit
+- Krafttraining erlaubt an: Easy Run Tagen (zusätzlich), Ruhetagen (auch Montag), leichten Rad-Tagen
+- Krafttraining NICHT wenn: Tag vor oder nach Intervall/Tempo/Long Run belegt ist
+- Bei 2 harten Einheiten in einer Woche (z.B. Di + Do): Mittwoch = Easy Run/Erholung, KEIN Krafttraining
+- Faustregel: Kraft nur einplanen wenn es den Laufplan nicht beeinflusst - sonst weglassen
 
 ### Übungsschwerpunkte (laufspezifisch):
 - Einbeinige Kniebeuge / Bulgarian Split Squat
