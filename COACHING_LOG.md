@@ -157,3 +157,29 @@ Historische Morgenchecks für Kontext und Lernzwecke.
 - **Training diese Woche:** Sanfter Wiedereinstieg ins strukturierte Training möglich
 - 4 autonome Signale fehlen (HRV/RHR/Schlaf/RI) - auf Körpergefühl hören
 - Doppelbelastung (Marathon + 85km Event) erfolgreich gemeistert - Körper bereit für nächste Phase
+
+---
+
+## 2026-05-05
+
+# Morgencheck - Dienstag, 5. Mai 2026
+
+## 1) Erholungsstatus
+**16 Tage nach Wien Marathon (3:13h)** - Erweiterte Recovery läuft optimal! TSB +10.8 zeigt hervorragende Erholung. TID-Alert: Verteilung verschiebt sich von Pyramidal (28d) zu Base (7d) - normale Entwicklung in der Recovery-Phase nach Doppelbelastung.
+
+**Readiness:** Go (grünes Licht)
+
+## 2) Gestriges Training
+**Montag 04.05.:** 30 min Night Lauf, 134 bpm Ø, Feel 3 ("Normal") - sehr gute Einheit! Perfekte Z1-Z2 Herzfrequenz trotz 25°C, zeigt stabile Post-Marathon-Recovery.
+
+## 3) Empfehlung für heute
+**Easy Run 45-60 min, Z1-Z2 (135-150 bpm), Pace 5:00-5:30/km**
+- Zweite strukturierte Laufwoche nach Marathon beginnt
+- Bei guten Beinen gerne ausbauen auf 60 min
+- Alternativ: Easy Radfahren 75-90 min, Z1-Z2 (< 150 bpm)
+
+## 4) Wichtige Hinweise
+- **Zugspitz Ultratrail:** 45 Tage (19. Juni) - nächste strukturierte Trail-Phase startet ab 19. Mai
+- **Training diese Woche:** Sanfter Aufbau in der erweiterten Recovery bis 18. Mai gemäß Makroplan
+- 4 autonome Signale fehlen (HRV/RHR/Schlaf/RI) - weiterhin auf Körpergefühl hören
+- Doppelbelastung erfolgreich verarbeitet - Körper bereit für Trainingsaufbau
