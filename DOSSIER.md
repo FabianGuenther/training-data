@@ -121,6 +121,39 @@
 
 ---
 
+## Strength Training
+
+**Status:** Neu eingeführt ab Mai 2026
+**Frequenz:** 2x/Woche (phasenabhängig, siehe unten)
+**Equipment:** Zuhause + Gym verfügbar
+**Fokus:** Laufspezifisch — Hüfte, Gesäß, Core, einbeinige Stabilität
+
+### Phasenplan Krafttraining:
+| Phase | Häufigkeit | Typ |
+|-------|-----------|-----|
+| Recovery | 1x/Woche | Core + Mobilität only |
+| Base / Trail Prep | 2x/Woche | Laufspezifisch + Core |
+| Build | 1-2x/Woche | Kraft + Explosivität |
+| Peak / Taper | max. 1x/Woche | Nur Aktivierung |
+| Off-Season | 2x/Woche | Allgemeine Kraft |
+| Marathon Build | 1x → 0x | Auslaufen |
+
+### Timing-Regeln:
+- NIE am Tag vor einem harten Lauf (Intervalle, Tempo)
+- Ideal: Nach einem Easy Run oder an Ruhetagen
+- Mindestabstand zu hartem Lauf: 24h
+- Kein Krafttraining in der Taper-Woche vor Wettkampf
+
+### Übungsschwerpunkte (laufspezifisch):
+- Einbeinige Kniebeuge / Bulgarian Split Squat
+- Hip Thrust / Glute Bridge
+- Single Leg Deadlift
+- Calf Raises (exzentrisch)
+- Plank Variationen / Dead Bug
+- Copenhagen Plank (Adduktoren)
+
+---
+
 ## Equipment
 
 - **Devices:** Garmin (primary) + Suunto (connected to Intervals.icu)
