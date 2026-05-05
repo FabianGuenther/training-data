@@ -1,130 +1,98 @@
 # Aktueller Wochenplan
 
-Erstellt am: 2026-05-03
+Erstellt am: 2026-05-05
 
 ---
 
-# Trainingsplan 04. - 17. Mai 2026
-**Recovery Phase 2 mit ZUT Base Übergang**
+# Trainingsplan 2 Wochen: 11. - 24. Mai 2026
+**Recovery 2 Phase → ZUT Base Phase Transition**
 
 ## 1) Lagebewertung
 
-Du befindest dich in der **Recovery Phase 2** nach der Doppelbelastung (Wien Marathon + Eschborn Frankfurt). Aktuelle Situation:
+Du befindest dich in der finalen **Recovery 2 Phase** (bis 18. Mai) nach der Doppelbelastung Marathon + Eschborn Frankfurt. Ab **19. Mai** startet die **ZUT Base Phase** für die Vorbereitung auf den Zugspitz Ultratrail (19. Juni = 39 Tage).
 
+**Aktuelle Situation:**
 - **Phase:** Base (medium confidence)
-- **Readiness:** Go (grünes Licht) 
-- **TID-Alert:** Base (7d) vs Pyramidal (28d) - Trainingsverteilung normalisiert sich nach Marathon-Recovery
-- **Aktueller TSB:** +10.1 zeigt optimale Erholung
-- **ACWR:** 0.31 (undertraining) - erwartete niedrige Belastung nach Event
-- **Zugspitz Ultratrail:** 47 Tage (19. Juni) - ZUT Base Phase startet in 2 Wochen
+- **Readiness:** Go (grünes Licht)
+- **TSB:** +10.2 (optimale Erholung)
+- **ACWR:** 0.39 (untertraining - recovery-typisch)
+- **TID-Alert:** Base (7d) vs Pyramidal (28d) - erwartete Verschiebung
+- **4 autonome Signale fehlen** - auf Körpergefühl hören
+- **Krafttraining:** Neu einführen ab 19. Mai (2x/Woche)
 
-**Priorität:** Vollständige Erholung abschließen, dann sanfter Übergang zur trail-spezifischen Vorbereitung.
+**Priorität:** Sanfter Übergang in trail-spezifische Basis mit ersten Kraftelementen.
 
 ---
 
 ## 2) Tagesplan
 
-### **Woche 1: 04. - 10. Mai (Recovery Phase 2)**
+### **WOCHE 1: 11. - 17. Mai (Recovery 2 abschließen)**
 
-**Montag 04.05.** - Ruhetag (fix)
-**Art:** Komplette Ruhe
+**Montag 11.05.** - Ruhetag (wie immer)
 
-**Dienstag 05.05.** - Easy Run 1  
-**Art:** Easy Laufen  
-**Dauer:** 45-60 min  
-**Herzfrequenz:** Z1-Z2 (< 150 bpm)  
-**Pace:** > 5:00/km  
-**Fokus:** Erste längere Laufeinheit nach Eschborn Frankfurt
+**Dienstag 12.05.** - Easy Run
+- 45-60 min, Z1-Z2 (135-150 bpm), Pace 5:00-5:30/km
+- Lockerer Wiedereinstieg nach Recovery
 
-**Mittwoch 06.05.** - Easy Radfahren oder Ruhe  
-**Art:** Easy Radfahren  
-**Dauer:** 60-75 min  
-**Herzfrequenz:** Z1-Z2 (< 150 bpm)  
-**Fokus:** Cross-Training Alternative nach Körpergefühl
+**Mittwoch 13.05.** - Easy Radfahren
+- 75-90 min, Z1-Z2 (125-140 bpm)
+- Sanfte Crosstraining-Einheit
 
-**Donnerstag 07.05.** - Easy Run 2  
-**Art:** Easy Laufen  
-**Dauer:** 40-50 min  
-**Herzfrequenz:** Z1 (< 135 bpm)  
-**Pace:** > 5:30/km  
-**Fokus:** Lockere Recovery zwischen den längeren Einheiten
+**Donnerstag 14.05.** - Easy Run mit Hügeln
+- 50-60 min, Z1-Z2 (135-150 bpm), Pace 5:00-5:30/km
+- Erste sanfte Hügel-Gewöhnung für Trail-Vorbereitung
 
-**Freitag 08.05.** - Ruhetag oder aktive Recovery  
-**Art:** Ruhe oder 30 min Easy Lauf  
-**Herzfrequenz:** Z1 (< 135 bpm) falls aktiv  
-**Fokus:** Nach Körpergefühl entscheiden
+**Freitag 15.05.** - Ruhetag oder Easy Rad
+- Flexibel nach Körpergefühl
+- Falls aktiv: 60 min Z1-Z2 (125-140 bpm)
 
-**Samstag 09.05.** - Long Run 1  
-**Art:** Easy Long Run  
-**Dauer:** 75-90 min  
-**Herzfrequenz:** Z1-Z2 (< 150 bpm)  
-**Pace:** 5:00-5:30/km  
-**Fokus:** Erste längere Einheit, Grundlage für ZUT-Vorbereitung
+**Samstag 16.05.** - Long Run
+- 75-90 min, Z1-Z2 (135-150 bpm), Pace 5:00-5:30/km
+- Längste Laufeinheit der Recovery-Phase
 
-**Sonntag 10.05.** - Easy Radfahren  
-**Art:** Easy Radfahren  
-**Dauer:** 90-120 min  
-**Herzfrequenz:** Z1-Z2 (< 150 bpm)  
-**Fokus:** Cross-Training, längste Einheit der Woche
+**Sonntag 17.05.** - Easy Rad oder Ruhe
+- 90-120 min Z1-Z2 (125-140 bpm) oder kompletter Ruhetag
 
-### **Woche 2: 11. - 17. Mai (ZUT Base Übergang)**
+### **WOCHE 2: 19. - 24. Mai (ZUT Base Start)**
 
-**Montag 11.05.** - Ruhetag (fix)
-**Art:** Komplette Ruhe
+**Montag 18.05.** - Letzter Recovery-Ruhetag
 
-**Dienstag 12.05.** - Tempo Run  
-**Art:** Easy mit Tempo-Touches  
-**Dauer:** 50-60 min  
-**Herzfrequenz:** Z1-Z2 + 4 x 5 min Z3 (151-160 bpm)  
-**Pace:** Grundlage 5:00-5:30/km, Tempo 4:35-4:50/km  
-**Fokus:** Erste strukturierte Intensität nach Recovery
+**Dienstag 19.05.** - Trail-spezifischer Start + Kraft
+- Easy Run 60 min, Z1-Z2 (135-150 bpm), Pace 5:00-5:30/km
+- **Kraft 45-60 min:** Laufspezifisch - Hüfte, Core, Stabilität
 
-**Mittwoch 13.05.** - Easy Run  
-**Art:** Easy Laufen  
-**Dauer:** 45-55 min  
-**Herzfrequenz:** Z1-Z2 (< 150 bpm)  
-**Pace:** 5:00-5:30/km  
-**Fokus:** Recovery zwischen Qualitätseinheiten
+**Mittwoch 20.05.** - Easy Rad
+- 90 min, Z1-Z2 (125-140 bpm)
+- Erhöhung Rad-Volumen für Basis-Aufbau
 
-**Donnerstag 14.05.** - Hill Training  
-**Art:** Hügel-Training  
-**Dauer:** 50-65 min  
-**Herzfrequenz:** Z1-Z2 + 6-8 x 90s Hügel  
-**Pace:** NUR HR-Zone bei Hügeln, KEINE Pace-Angabe  
-**Fokus:** Trail-spezifische Kraftausdauer für ZUT
+**Donnerstag 21.05.** - Run mit Hill Touches
+- 60 min, Z1-Z2 (135-150 bpm), Pace 5:00-5:30/km + 4 x 2-3 min Z3 Hügel
+- Erste trail-spezifische Intensität
 
-**Freitag 15.05.** - Easy Run oder Ruhe  
-**Art:** Easy Laufen oder Ruhetag  
-**Dauer:** 30-40 min (falls Lauf)  
-**Herzfrequenz:** Z1 (< 135 bpm)  
-**Pace:** > 5:30/km  
-**Fokus:** Nach Gefühl vor dem Long Run
+**Freitag 22.05.** - Kraft + Easy Run
+- **Kraft 45-60 min:** Laufspezifisch
+- Easy Run 30-40 min, Z1 (< 135 bpm), Pace > 5:30/km
 
-**Samstag 16.05.** - Long Run 2  
-**Art:** Progressive Long Run  
-**Dauer:** 90-105 min  
-**Herzfrequenz:** Z1-Z2 (< 150 bpm), letztes Drittel Z2  
-**Pace:** Start 5:00-5:30/km, progressiv auf 4:45-5:15/km  
-**Fokus:** ZUT-Basis aufbauen, längste Laufeinheit
+**Samstag 23.05.** - Long Trail Run
+- 90-105 min, Z1-Z2 (135-150 bpm), Pace 5:00-5:30/km
+- Trail-Terrain suchen, erste längere Einheit
 
-**Sonntag 17.05.** - Easy Radfahren  
-**Art:** Easy Radfahren  
-**Dauer:** 90-120 min  
-**Herzfrequenz:** Z1-Z2 (< 150 bpm)  
-**Fokus:** Active Recovery nach Long Run
+**Sonntag 24.05.** - Easy Rad oder Active Recovery
+- 120 min Z1-Z2 (125-140 bpm) oder 45 min Recovery Run
 
 ---
 
 ## 3) Wochenvolumen
 
-**Woche 1 (Recovery):** 4.5-6.5 Stunden  
-- Laufen: 3-4h  
-- Radfahren: 1.5-2.5h  
-**TSS-Ziel:** 120-180
+**WOCHE 1 (11.-17. Mai):**
+- **Gesamtstunden:** 5.5-7h
+- **Laufen:** 3.5-4.5h / ~30-35 km
+- **Radfahren:** 2-2.5h / ~60-75 km
 
-**Woche 2 (ZUT Base Übergang):** 6-8 Stunden  
-- Laufen: 4.5-5.5h  
-- Radfahren: 1.5-2.5h  
-**TSS-Ziel:** 200-280
+**WOCHE 2 (19.-24. Mai):**
+- **Gesamtstunden:** 7-8.5h (inkl. 1.5h Kraft)
+- **Laufen:** 4.5-5.5h / ~35-45 km
+- **Radfahren:** 3-3.5h / ~90-110 km
+- **Krafttraining:** 1.5h (2x 45-60 min)
 
-**Wichtiger Hinweis:** Recovery hat absolute Priorität über Planerfüllung. Bei Müdigkeit oder Unwohlsein sofort reduzieren. Ab 19. Mai startet die strukturierte ZUT Base Phase mit trail-spezifischem Fokus.
+---
