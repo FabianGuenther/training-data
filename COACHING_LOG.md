@@ -183,3 +183,28 @@ Historische Morgenchecks für Kontext und Lernzwecke.
 - **Training diese Woche:** Sanfter Aufbau in der erweiterten Recovery bis 18. Mai gemäß Makroplan
 - 4 autonome Signale fehlen (HRV/RHR/Schlaf/RI) - weiterhin auf Körpergefühl hören
 - Doppelbelastung erfolgreich verarbeitet - Körper bereit für Trainingsaufbau
+
+---
+
+## 2026-05-06
+
+# Morgencheck - Mittwoch, 6. Mai 2026
+
+## 1) Erholungsstatus
+**17 Tage nach Wien Marathon (3:13h)** - Erweiterte Recovery läuft optimal! TSB +11.6 zeigt hervorragende Erholung. TID-Alert: Verteilung verschiebt sich von Pyramidal (28d) zu Base (7d) - normale Entwicklung in der Recovery-Phase.
+
+**Readiness:** Go (grünes Licht, aber 4 autonome Signale fehlen)
+
+## 2) Gestriges Training
+**Dienstag 05.05.:** 18 min Krafttraining, 99 bpm Ø, Feel 2 ("Good") - sehr gute erste Krafteinheit! Niedrige HR bestätigt geringen Belastungscharakter.
+
+## 3) Empfehlung für heute
+**Easy Radfahren 60-75 min, Z1-Z2 (< 150 bpm)**
+- Wie geplant im Kalender: Cross-Training Alternative
+- Erste längere Rad-Aktivität nach Krafttraining gestern
+- Bei angenehmen Bedingungen entspannt angehen
+
+## 4) Wichtige Hinweise
+- **Zugspitz Ultratrail:** 44 Tage (19. Juni) - nächste strukturierte Trail-Phase startet ab 19. Mai
+- **Training diese Woche:** Sanfter Aufbau in Recovery-Phase bis 18. Mai läuft planmäßig
+- ACWR 0.2 zeigt "Undertraining" - normal nach Marathon + Event, kein Problem
