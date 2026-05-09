@@ -258,3 +258,27 @@ Historische Morgenchecks für Kontext und Lernzwecke.
 - **Zugspitz Ultratrail:** 42 Tage (19. Juni) - strukturierte Trail-Phase startet ab 19. Mai
 - **Morgen:** Long Run 1 geplant (85 min, Z1-Z2, erste längere Einheit nach Marathon)
 - ACWR 0.37 zeigt "Undertraining" - normal nach Marathon + Event, kein Problem
+
+---
+
+## 2026-05-09
+
+# Morgencheck - Samstag, 9. Mai 2026
+
+## 1) Erholungsstatus
+**20 Tage nach Wien Marathon (3:13h)** - Recovery-Phase läuft optimal! TSB +11.6 zeigt hervorragende Erholung. TID verschiebt sich von Pyramidal (28d) zu Base (7d) - erwartete Entwicklung in Recovery-Phase. ACWR 0.43 zeigt "Undertraining" - normal nach Marathon + Event.
+
+**Readiness:** Go (grünes Licht, aber 4 autonome Signale fehlen)
+
+## 2) Gestriges Training
+**Freitag 08.05.:** Keine Einheit erfasst - planmäßiger Ruhetag oder aktive Recovery gemäß Kalender.
+
+## 3) Empfehlung für heute
+**Long Run 1 wie geplant - 85 min, Z1-Z2 (135-150 bpm), Pace 5:00-5:30/km**
+- Erste längere Einheit nach Marathon + Eschborn Frankfurt
+- Bei TSB +11.6 und 0 harten Tagen diese Woche optimal
+- Grundlage für ZUT-Vorbereitung (41 Tage bis Zugspitz Ultratrail)
+
+## 4) Wichtige Hinweise
+- **Morgen:** Easy Radfahren 105 min geplant - längste Einheit der Woche
+- **Zugspitz Ultratrail:** 41 Tage - strukturierte Trail-Phase startet ab 19. Mai gemäß Makroplan
