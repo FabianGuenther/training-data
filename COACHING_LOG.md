@@ -282,3 +282,27 @@ Historische Morgenchecks für Kontext und Lernzwecke.
 ## 4) Wichtige Hinweise
 - **Morgen:** Easy Radfahren 105 min geplant - längste Einheit der Woche
 - **Zugspitz Ultratrail:** 41 Tage - strukturierte Trail-Phase startet ab 19. Mai gemäß Makroplan
+
+---
+
+## 2026-05-10
+
+# Morgencheck - Sonntag, 10. Mai 2026
+
+## 1) Erholungsstatus
+**21 Tage nach Wien Marathon (3:13h)** - Erweiterte Recovery läuft optimal! TSB +7.2 zeigt hervorragende Erholung. TID-Alert: Verteilung verschiebt sich von Pyramidal (28d) zu Base (7d) - erwartete Entwicklung in der Recovery-Phase. ACWR 0.83 optimal.
+
+**Readiness:** Go (grünes Licht, aber 4 autonome Signale fehlen)
+
+## 2) Gestriges Training
+**Samstag 09.05.:** 78 min Lunch Laufen, 135 bpm Ø, Feel 3 ("Normal") - sehr gute Long Run 1! Perfekte Z1-Z2 Herzfrequenz bei 13,8 km, erste längere Einheit nach Marathon erfolgreich absolviert.
+
+## 3) Empfehlung für heute
+**Easy Radfahren 105 min, Z1-Z2 (< 150 bpm)**
+- Wie geplant: längste Einheit der Woche
+- Cross-Training nach erfolgreichem Long Run gestern
+- TSB +7.2 und 0 harte Tage diese Woche - perfekte Voraussetzungen
+
+## 4) Wichtige Hinweise
+- **Zugspitz Ultratrail:** 40 Tage - strukturierte Trail-Phase startet ab 19. Mai gemäß Makroplan
+- Gestriger Long Run zeigt: Körper bereit für längere Belastungen nach erfolgreicher Marathon + Event Recovery
