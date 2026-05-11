@@ -121,6 +121,24 @@
 
 ---
 
+## Zeitliche Rahmenbedingungen
+
+**Verfügbare Einheiten pro Woche:**
+| Phase | Einheiten | Anmerkung |
+|-------|-----------|-----------|
+| Recovery | 3-4 | Weniger ist mehr |
+| Base | 4-5 | Standard |
+| Build | 4-5 | Max. 5 |
+| ZUT Prep (6-12 Wo vor Rennen) | 4-5 | Ausnahme |
+| Peak/Taper | 4-5 | Qualität > Quantität |
+| Marathon Build | 4-6 | Max. 6 |
+
+**Regel:** Lieber 4 gute Einheiten als 6 mittelmäßige.
+Optionale Einheiten nur einplanen wenn Woche bereits
+vollständig ist — nicht als Standard.
+
+---
+
 ## Strength Training
 
 **Status:** Neu eingeführt ab Mai 2026
