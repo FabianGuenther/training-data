@@ -21,14 +21,17 @@
 - **FTP:** N/A — no power meter. HR-based analysis only for all sports.
 - **Zone preference:** `run:hr,cycling:hr`
 
-### Training Zones (HR-based, derived from LTHR 171 / Max 189)
-| Zone | Name | HR Range | Pace (min/km) |
-|------|------|----------|---------------|
-| Z1 | Recovery | < 135 bpm | > 5:30 |
-| Z2 | Aerobic Base | 135–150 bpm | 5:00–5:30 |
-| Z3 | Tempo / Grey Zone | 151–160 bpm | 4:35–4:50 |
-| Z4 | Threshold | 161–169 bpm | 4:15–4:30 |
-| Z5 | VO2max | > 169 bpm | 3:50–4:10 |
+### Trainingszonen Laufen
+**Methode: Friel LTHR-Modell (% von LTHR 171 bpm)**
+**Diese Zonen sind fix und dürfen NICHT neu berechnet werden.**
+
+| Zone | HR | Pace |
+|------|----|------|
+| Z1 | < 135 bpm (< 79% LTHR) | > 5:30/km |
+| Z2 | 135-150 bpm (79-88% LTHR) | 5:00-5:30/km |
+| Z3 | 151-160 bpm (88-94% LTHR) | 4:35-4:50/km |
+| Z4 | 161-169 bpm (94-99% LTHR) | 4:15-4:30/km |
+| Z5 | > 169 bpm (> 99% LTHR) | 3:50-4:10/km |
 
 **Pace-Referenzen abgeleitet von:**
 - Wien Marathon 19.04.2026: 3:13h (~4:35/km)
