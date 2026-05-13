@@ -355,3 +355,26 @@ Historische Morgenchecks für Kontext und Lernzwecke.
 - **Zugspitz Ultratrail:** 38 Tage (19. Juni) - strukturierte Trail-Phase startet ab 19. Mai
 - **Diese Woche:** Sanfter Aufbau in Recovery-Phase bis 18. Mai läuft planmäßig
 - Gestriger Long Run (78 min) zeigt: Körper bereit für längere Belastungen
+
+---
+
+## 2026-05-13
+
+# Morgencheck - Mittwoch, 13. Mai 2026
+
+## 1) Erholungsstatus
+**24 Tage nach Wien Marathon (3:13h)** - Recovery läuft sehr gut! TSB +3.2 zeigt positive Erholung. Phase "Base" (high confidence) normal nach Marathon. ACWR 1.32 triggert Warnung - nah an Grenze der optimalen Range.
+
+**Readiness:** Modify - Intensität und Volumen reduzieren (P1 Belastungswarnung wegen ACWR)
+
+## 2) Gestriges Training
+**Dienstag 12.05.:** 50 min Afternoon Laufen, 133 bpm Ø, Feel 2 ("Good") - sehr gute Einheit! HR perfekt in Z1 (< 135 bpm), ideale Recovery-Intensität nach Marathon.
+
+## 3) Empfehlung für heute
+**Easy Radfahren 60-75 min, Z1-Z2 (< 150 bpm)** - reduziert wegen ACWR-Warnung
+- Geplant waren 75-90 min → auf 60-75 min kürzen
+- TSB +3.2 und gute gestrige Einheit, aber Belastungssteuerung wichtiger
+
+## 4) Wichtige Hinweise
+- **ACWR 1.32 am Rand der optimalen Range** - Volumen/Intensität heute reduzieren
+- **Zugspitz Ultratrail:** 37 Tage (19. Juni) - strukturierte Trail-Phase startet ab 19. Mai planmäßig
