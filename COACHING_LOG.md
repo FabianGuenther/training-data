@@ -378,3 +378,27 @@ Historische Morgenchecks für Kontext und Lernzwecke.
 ## 4) Wichtige Hinweise
 - **ACWR 1.32 am Rand der optimalen Range** - Volumen/Intensität heute reduzieren
 - **Zugspitz Ultratrail:** 37 Tage (19. Juni) - strukturierte Trail-Phase startet ab 19. Mai planmäßig
+
+---
+
+## 2026-05-14
+
+# Morgencheck - Donnerstag, 14. Mai 2026
+
+## 1) Erholungsstatus
+**25 Tage nach Wien Marathon (3:13h)** - Erweiterte Recovery läuft optimal! TSB +5.5 zeigt hervorragende Erholung. Phase "Base" (high confidence) mit konsistenter TID-Verteilung. ACWR 1.09 optimal im Zielbereich.
+
+**Readiness:** Go (grünes Licht)
+
+## 2) Gestriges Training
+**Mittwoch 13.05.:** Kein Training erfasst - planmäßiger Ruhetag oder nicht absolviertes Radfahren gemäß gestrigem Plan.
+
+## 3) Empfehlung für heute
+**ANPASSEN: Easy Run + Krafttraining wie geplant**
+- **Laufen:** 45 min, Z1-Z2 (135-150 bpm), Pace 5:00-5:30/km
+- **Krafttraining:** 50 min laufspezifisch (Hüfte, Core, Stabilität)
+- Bei TSB +5.5 und 0 harten Tagen diese Woche perfekte Voraussetzungen
+
+## 4) Wichtige Hinweise
+- **Zugspitz Ultratrail:** 36 Tage (19. Juni) - strukturierte Trail-Phase startet ab 19. Mai gemäß Makroplan
+- 4 autonome Signale fehlen (HRV/RHR/Schlaf/RI) - auf Körpergefühl hören
