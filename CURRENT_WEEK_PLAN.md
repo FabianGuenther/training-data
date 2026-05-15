@@ -57,3 +57,13 @@ Gesamtstunden: 7-8.5h
 Lauf-Kilometer: ~50-60 km
 Rad-Kilometer: ~100-120 km
 Progression: Sanfter Übergang von Recovery (Woche 1) zu Trail-spezifischer Vorbereitung (Woche 2) gemäß Makroplan. Ab 19. Mai beginnt die ZUT Base-Phase für Zugspitz Ultratrail.
+
+
+---
+
+## Morgencheck-Anpassungen
+
+### 2026-05-15
+DATUM: 2026-05-15
+AENDERUNG: Easy Run 50-60 min eingetragen, Z1-Z2 (< 150 bpm), Pace > 5:00/km
+GRUND: Radfahren wegen Wetter nicht möglich, Lauf-Alternative gewählt
