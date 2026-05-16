@@ -426,3 +426,27 @@ Historische Morgenchecks für Kontext und Lernzwecke.
 ## 4) Wichtige Hinweise
 - **Zugspitz Ultratrail:** 35 Tage (19. Juni) - strukturierte Trail-Phase startet ab 19. Mai gemäß Makroplan
 - **Morgen:** Long Run 2 geplant (97 min, Z1-Z2) - längste Laufeinheit der Woche
+
+---
+
+## 2026-05-16
+
+# Morgencheck - Samstag, 16. Mai 2026
+
+## 1) Erholungsstatus
+**27 Tage nach Wien Marathon (3:13h)** - Erweiterte Recovery läuft optimal! TSB +2.9 zeigt hervorragende Erholung. Phase "Base" (medium confidence) mit TID-Alert "shifting" - normale Entwicklung in der Recovery-Phase.
+
+**Readiness:** Go (grünes Licht, aber 4 autonome Signale fehlen)
+
+## 2) Gestriges Training
+**Freitag 15.05.:** 48 min Evening Laufen, 132 bpm Ø, Feel 2 ("Good") - sehr gute Einheit! HR perfekt in Z1-Z2, ideale Recovery-Intensität für diese Phase.
+
+## 3) Empfehlung für heute
+**PLAN: Long Run 2 wie geplant - 97 min, Z1-Z2 (< 150 bpm), Pace > 5:00/km**
+- Bei TSB +2.9, ACWR 1.09 optimal und 0 harten Tagen diese Woche
+- Längste Laufeinheit der Woche, wichtiger Baustein für ZUT-Vorbereitung
+- ODER: Radfahren 97 min, Z1-Z2 (< 140 bpm)
+
+## 4) Wichtige Hinweise
+- **Zugspitz Ultratrail:** 34 Tage (19. Juni) - strukturierte Trail-Phase startet ab 19. Mai planmäßig
+- **Morgen:** Ruhetag eingetragen - nach Long Run perfekt für Recovery
