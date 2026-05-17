@@ -188,3 +188,8 @@ Kraft bleibt bei 2×/Woche (Mi), NIE vor Hill Run oder Long Run
 DATUM: 2026-05-17
 AENDERUNG: Keine - Plan bereits korrekt in Intervals.icu eingetragen
 GRUND: Der Trainingsplan entspricht dem besprochenen ZUT Base-Phase Plan und ist vollständig
+
+### 2026-05-17
+DATUM: 2026-05-17
+AENDERUNG: Alle Einträge 19.-31. Mai gelöscht und neu eingetragen entsprechend dem korrekten ZUT Base-Wochenplan
+GRUND: Der vorherige Plan wies Unterschiede zum gewünschten Plan auf - jetzt korrekt mit Ruhetagen am Freitag statt Sonntag, ODER-Alternativen bei Rad-Einheiten unter der Woche
