@@ -1,108 +1,75 @@
-# Aktueller Wochenplan
+Trainingsplan 18.05. – 31.05.2026
+ZUT Base-Phase: Trail-spezifischer Aufbau (33 Tage bis ZUT)
+1) Lagebewertung
+Recovery-Phase erfolgreich abgeschlossen. Ab 19.05. startet die strukturierte ZUT Base-Phase mit trail-spezifischem Fokus. Volumen und Höhenmeter werden kontrolliert aufgebaut. Krafttraining wird 2x/Woche integriert.
 
-Erstellt am: 2026-05-17
+2) Tagesplan
+Woche 1: 18.05. – 24.05.2026
+Montag 18.05. – Ruhetag (fix)
+Dienstag 19.05. – Trail Run (ZUT Base Start)
+Dauer: 60 min
+Herzfrequenz: Z1-Z2 (< 150 bpm)
+Fokus: Erste trail-spezifische Einheit, Hügel HR-gesteuert, keine Pace bei Anstiegen
+Mittwoch 20.05. – Easy Laufen + Kraft
+Dauer: 45 min Laufen + 45 min Kraft
+Herzfrequenz: Z1-Z2 (< 150 bpm), Pace > 5:00/km
+ODER: Easy Radfahren 65 min, Z1-Z2 (< 140 bpm) + 45 min Kraft
+Fokus: Aktive Recovery, laufspezifisches Krafttraining (Hüfte, Core, Stabilität)
+Donnerstag 21.05. – Hill Run
+Dauer: 55 min
+Herzfrequenz: Z1-Z2 (< 150 bpm) flach, Anstiege bis Z3 (< 160 bpm)
+Fokus: 6-8 × 90s Bergauf-Intervalle, volle Erholung bergab
+Freitag 22.05. – Ruhetag
+Samstag 23.05. – Long Run (trail-orientiert)
+Dauer: 105 min
+Herzfrequenz: Z1-Z2 (< 150 bpm), Hügel nur HR-gesteuert
+Pace: > 5:00/km auf flachen Abschnitten
+Fokus: Erste längere Trail-Einheit, Höhenmeter sammeln
+Sonntag 24.05. – Easy Radfahren (optional)
+Dauer: 90 min
+Herzfrequenz: Z1-Z2 (< 140 bpm)
+Fokus: Aktive Recovery nach Long Run
+Wochenvolumen 1:
 
----
+Gesamtstunden: ~5.5–6h
+Laufen: ~35–40 km
+Rad: ~40–50 km
 
-# Trainingsplan 18.05. - 31.05.2026 (14 Tage)
-**ZUT Base-Phase: Start der Trail-spezifischen Vorbereitung**
 
-## 1) Lagebewertung
+Woche 2: 25.05. – 31.05.2026
+Montag 25.05. – Ruhetag (fix)
+Dienstag 26.05. – Trail Run
+Dauer: 65 min
+Herzfrequenz: Z1-Z2 (< 150 bpm), Anstiege HR-gesteuert
+Fokus: Sanfter Aufbau, Technik bergab
+Mittwoch 27.05. – Easy Laufen + Kraft
+Dauer: 45 min Laufen + 45 min Kraft
+Herzfrequenz: Z1-Z2 (< 150 bpm), Pace > 5:00/km
+ODER: Easy Radfahren 70 min, Z1-Z2 (< 140 bpm) + 45 min Kraft
+Fokus: Laufspezifisches Krafttraining
+Donnerstag 28.05. – Hill Run 2
+Dauer: 60 min
+Herzfrequenz: Z1-Z2 (< 150 bpm) flach, Anstiege bis Z3 (< 160 bpm)
+Fokus: 6-8 × 90-120s Bergauf, mehr Volumen als Woche 1
+Freitag 29.05. – Ruhetag
+Samstag 30.05. – Long Run (trail-spezifisch)
+Dauer: 115 min
+Herzfrequenz: Z1-Z2 (< 150 bpm), Hügel nur HR-gesteuert
+Pace: > 5:00/km auf flachen Abschnitten
+Fokus: Längste Einheit der Phase, trail-spezifisch mit Höhenmetern
+Sonntag 31.05. – Easy Radfahren (optional)
+Dauer: 95 min
+Herzfrequenz: Z1-Z2 (< 140 bpm)
+Fokus: Aktive Recovery
+Wochenvolumen 2:
 
-Du beginnst heute die strukturierte ZUT Base-Phase für den Zugspitz Ultratrail (33 Tage). TSB -0.3 zeigt optimale Balance nach erfolgreicher Recovery-Phase. Phase "Base" (medium confidence) mit TID "Pyramidal" stabil. ACWR 1.29 optimal, HR Curve zeigt interessante Anpassung: intensity-biased shift (+11.5 Rotation Index) deutet auf verbesserte kurze Intensitäten hin.
+Gesamtstunden: ~6–6.5h
+Laufen: ~40–45 km
+Rad: ~43–50 km
 
----
 
-## 2) Tagesplan
+Wichtige Hinweise
 
-### **Woche 1: 18.05. - 24.05.2026**
-
-**Montag 18.05.** - Ruhetag (fix)
-
-**Dienstag 19.05.** - Trail-Prep Run (ZUT Base beginnt)
-**Art:** Trail/Easy Laufen
-**Dauer:** 60 min
-**Herzfrequenz:** Z1-Z2 (135-150 bpm)
-**Pace:** 5:00-5:30/km (bei Hügeln nur HR-Steuerung)
-
-**Mittwoch 20.05.** - Easy Radfahren + Krafttraining
-**Art:** Easy Radfahren + Krafttraining
-**Dauer:** 75 min Rad + 45 min Kraft
-**Herzfrequenz:** Z1-Z2 (< 150 bpm)
-
-**Donnerstag 21.05.** - Hill Run (erste Trail-Einheit)
-**Art:** Trail/Hill Laufen
-**Dauer:** 55 min
-**Herzfrequenz:** Flach Z1-Z2 (135-150 bpm), Anstiege Z2-Z3 (bis 165 bpm)
-**Pace:** Nur HR-Steuerung bei Hügeln
-
-**Freitag 22.05.** - Easy Run oder aktive Recovery
-**Art:** Easy Laufen
-**Dauer:** 45 min
-**Herzfrequenz:** Z1 (< 135 bpm)
-**Pace:** > 5:30/km
-
-**Samstag 23.05.** - Long Run 3 (Trail-orientiert)
-**Art:** Long Run mit Trail-Elementen
-**Dauer:** 110 min
-**Herzfrequenz:** Flach Z1-Z2 (135-150 bpm), Hügel Z2-Z3
-**Pace:** 5:00-5:30/km (flache Abschnitte), nur HR bei Hügeln
-
-**Sonntag 24.05.** - Easy Radfahren
-**Art:** Easy Radfahren
-**Dauer:** 95 min
-**Herzfrequenz:** Z1-Z2 (< 150 bpm)
-
-### **Woche 2: 25.05. - 31.05.2026**
-
-**Montag 25.05.** - Ruhetag (fix)
-
-**Dienstag 26.05.** - Trail Run
-**Art:** Trail Laufen
-**Dauer:** 65 min
-**Herzfrequenz:** Z1-Z2 (135-150 bpm), Anstiege Z2-Z3
-**Pace:** 5:00-5:30/km (flache Abschnitte)
-
-**Mittwoch 27.05.** - Easy Radfahren + Krafttraining
-**Art:** Easy Radfahren + Krafttraining
-**Dauer:** 80 min Rad + 45 min Kraft
-**Herzfrequenz:** Z1-Z2 (< 150 bpm)
-
-**Donnerstag 28.05.** - Hill Run 2
-**Art:** Trail/Hill Laufen
-**Dauer:** 60 min
-**Herzfrequenz:** Flach Z1-Z2 (135-150 bpm), Anstiege Z2-Z3
-**Pace:** Nur HR-Steuerung bei Hügeln
-
-**Freitag 29.05.** - Easy Run
-**Art:** Easy Laufen
-**Dauer:** 50 min
-**Herzfrequenz:** Z1 (< 135 bpm)
-**Pace:** > 5:30/km
-
-**Samstag 30.05.** - Long Run 4 (Trail-spezifisch)
-**Art:** Long Run Trail-spezifisch
-**Dauer:** 120 min
-**Herzfrequenz:** Flach Z1-Z2 (135-150 bpm), Hügel Z2-Z3
-**Pace:** 5:00-5:30/km (flache Abschnitte), nur HR bei Hügeln
-
-**Sonntag 31.05.** - Easy Radfahren
-**Art:** Easy Radfahren
-**Dauer:** 100 min
-**Herzfrequenz:** Z1-Z2 (< 150 bpm)
-
----
-
-## 3) Wochenvolumen
-
-### **Woche 1 (18.-24. Mai):**
-- **Gesamtstunden:** 7-8h
-- **Lauf-Kilometer:** ~55-65 km
-- **Rad-Kilometer:** ~110-130 km
-
-### **Woche 2 (25.-31. Mai):**
-- **Gesamtstunden:** 8-9h
-- **Lauf-Kilometer:** ~65-75 km
-- **Rad-Kilometer:** ~120-140 km
-
-**Progression:** Strukturierter Beginn der ZUT Base-Phase mit Trail-spezifischen Elementen. Sanfter Aufbau von Volumen und Höhenmetern für Zugspitz Ultratrail Vorbereitung (29 km / 1600 hm).
+Zugspitz Ultratrail: 33 Tage (19. Juni) — Höhenmeter haben Vorrang vor Kilometern
+Bergauf immer HR-gesteuert, keine Pace
+Kraft bleibt bei 2×/Woche (Mi), NIE vor Hill Run oder Long Run
