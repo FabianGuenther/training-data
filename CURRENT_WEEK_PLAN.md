@@ -193,3 +193,8 @@ GRUND: Der Trainingsplan entspricht dem besprochenen ZUT Base-Phase Plan und ist
 DATUM: 2026-05-17
 AENDERUNG: Alle Einträge 19.-31. Mai gelöscht und neu eingetragen entsprechend dem korrekten ZUT Base-Wochenplan
 GRUND: Der vorherige Plan wies Unterschiede zum gewünschten Plan auf - jetzt korrekt mit Ruhetagen am Freitag statt Sonntag, ODER-Alternativen bei Rad-Einheiten unter der Woche
+
+### 2026-05-17
+DATUM: 2026-05-17
+AENDERUNG: Kompletter Trainingsplan 19.05. - 31.05.2026 in Intervals.icu eingetragen basierend auf GitHub Wochenplan
+GRUND: Manuelle Löschung durch Fabian - Neueintragung mit korrekten ZUT Base-Phase Einheiten entsprechend dem vordefinierten GitHub-Plan
