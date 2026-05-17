@@ -178,3 +178,13 @@ Wichtige Hinweise
 Zugspitz Ultratrail: 33 Tage (19. Juni) — Höhenmeter haben Vorrang vor Kilometern
 Bergauf immer HR-gesteuert, keine Pace
 Kraft bleibt bei 2×/Woche (Mi), NIE vor Hill Run oder Long Run
+
+
+---
+
+## Morgencheck-Anpassungen
+
+### 2026-05-17
+DATUM: 2026-05-17
+AENDERUNG: Keine - Plan bereits korrekt in Intervals.icu eingetragen
+GRUND: Der Trainingsplan entspricht dem besprochenen ZUT Base-Phase Plan und ist vollständig
