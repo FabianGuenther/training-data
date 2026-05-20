@@ -518,3 +518,26 @@ Historische Morgenchecks für Kontext und Lernzwecke.
 ## 4) Wichtige Hinweise
 - **Zugspitz Ultratrail:** 31 Tage (19. Juni) - heute startet die strukturierte Trail-Phase gemäß Makroplan
 - **Morgen:** Easy Laufen 45 min + Kraft 45 min ODER Radfahren 65 min + Kraft 45 min
+
+---
+
+## 2026-05-20
+
+# Morgencheck - Mittwoch, 20. Mai 2026
+
+## 1) Erholungsstatus
+**31 Tage nach Wien Marathon** - ZUT Base-Phase läuft perfekt! TSB +3.7 zeigt optimale Balance. Phase "Base" (high confidence) mit TID "Pyramidal" stabil. ACWR 1.22 optimal, 0 harte Tage diese Woche.
+
+## 2) Gestriges Training
+**Dienstag 19.05.:** 50 min Trail Run, 133 bpm Ø, Feel 2 ("Good") - hervorragender Start der ZUT Base-Phase! Perfekte HR-Steuerung (Z1-Z2) mit 267 hm, ideal für trail-spezifische Vorbereitung.
+
+## 3) Empfehlung für heute
+**Easy Laufen 45 min, Z1-Z2 (< 150 bpm), Pace > 5:00/km + Krafttraining 45 min**
+ODER: **Radfahren 65 min, Z1-Z2 (< 140 bpm) + Krafttraining 45 min**
+- Wie geplant im ZUT Base-Plan
+- TSB +3.7 und optimale Readiness - perfekte Voraussetzungen
+- Krafttraining: laufspezifisch (Hüfte, Core, Stabilität)
+
+## 4) Wichtige Hinweise
+- **Zugspitz Ultratrail:** 30 Tage (19. Juni) - ZUT Base-Phase erfolgreich gestartet
+- **Morgen:** Hill Run 55 min geplant - erste Bergauf-Intervalle der Trail-Vorbereitung
