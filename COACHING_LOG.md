@@ -541,3 +541,27 @@ ODER: **Radfahren 65 min, Z1-Z2 (< 140 bpm) + Krafttraining 45 min**
 ## 4) Wichtige Hinweise
 - **Zugspitz Ultratrail:** 30 Tage (19. Juni) - ZUT Base-Phase erfolgreich gestartet
 - **Morgen:** Hill Run 55 min geplant - erste Bergauf-Intervalle der Trail-Vorbereitung
+
+---
+
+## 2026-05-21
+
+# Morgencheck - Donnerstag, 21. Mai 2026
+
+## 1) Erholungsstatus
+**32 Tage nach Wien Marathon** - ZUT Base-Phase läuft optimal! TSB +2.7 zeigt hervorragende Balance. Phase "Base" (high confidence) mit TID "Pyramidal" stabil. ACWR 1.1 optimal, 0 harte Tage diese Woche.
+
+**Readiness:** Go (grünes Licht, aber 4 autonome Signale fehlen)
+
+## 2) Gestriges Training
+**Mittwoch 20.05.:** 46 min Evening Laufen, 137 bpm Ø, Feel 1 ("Strong") - sehr gute Einheit! HR perfekt in Z1-Z2, ideale Recovery-Intensität nach gestrigem Trail Run.
+
+## 3) Empfehlung für heute
+**PLAN: Hill Run 55 min wie geplant - Z1-Z2 (< 150 bpm) flach, Anstiege bis Z3 (< 160 bpm)**
+- Erste Bergauf-Intervalle der ZUT Base-Phase: 6-8 × 90s bergauf, volle Erholung bergab
+- Bei Anstiegen nur HR-Steuerung, keine Pace-Vorgaben
+- ODER: Radfahren 55 min, Z1-Z2 (< 140 bpm)
+
+## 4) Wichtige Hinweise
+- **Zugspitz Ultratrail:** 29 Tage (19. Juni) - erste Hill Run Einheit für trail-spezifische Vorbereitung
+- **Morgen:** Ruhetag geplant - perfekte Recovery nach Hill Run
