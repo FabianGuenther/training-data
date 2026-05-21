@@ -198,3 +198,8 @@ GRUND: Der vorherige Plan wies Unterschiede zum gewünschten Plan auf - jetzt ko
 DATUM: 2026-05-17
 AENDERUNG: Kompletter Trainingsplan 19.05. - 31.05.2026 in Intervals.icu eingetragen basierend auf GitHub Wochenplan
 GRUND: Manuelle Löschung durch Fabian - Neueintragung mit korrekten ZUT Base-Phase Einheiten entsprechend dem vordefinierten GitHub-Plan
+
+### 2026-05-21
+DATUM: 21.05.2026
+AENDERUNG: Hill Run 55 min von heute auf morgen verschoben, morgen wird dadurch Trainings- statt Ruhetag
+GRUND: Zeitliche Unmöglichkeit der heutigen Einheit
