@@ -203,3 +203,8 @@ GRUND: Manuelle Löschung durch Fabian - Neueintragung mit korrekten ZUT Base-Ph
 DATUM: 21.05.2026
 AENDERUNG: Hill Run 55 min von heute auf morgen verschoben, morgen wird dadurch Trainings- statt Ruhetag
 GRUND: Zeitliche Unmöglichkeit der heutigen Einheit
+
+### 2026-05-22
+DATUM: 2026-05-22
+AENDERUNG: Hill Run von gestern auf heute durchgeführt wie geplant
+GRUND: Zeitliche Verschiebung von Donnerstag auf Freitag erfolgt planmäßig
