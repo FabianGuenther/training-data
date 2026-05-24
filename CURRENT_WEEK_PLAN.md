@@ -1,215 +1,85 @@
 # Aktueller Wochenplan
 
-Erstellt am: 2026-05-17  
-Phase: ZUT Base  
-Zeitraum: 18.05. – 31.05.2026
+Erstellt am: 2026-05-24
 
 ---
 
-## Lagebewertung
+# 14-Tage Trainingsplan 25.05. - 07.06.2026
 
-Recovery-Phase erfolgreich abgeschlossen. Ab 19.05. startet die strukturierte ZUT Base-Phase mit trail-spezifischem Fokus. Volumen und Höhenmeter werden kontrolliert aufgebaut. Krafttraining 2x/Woche integriert (Mittwoch).
-
----
-
-## Woche 1: 18.05. – 24.05.2026
-
-### Montag 18.05. — Ruhetag (fix)
+**ZUT Base-Phase läuft optimal!** ACWR-Warnung von gestern normalisiert sich mit reduziertem Volumen. Phase "Base" mit Seiler TID "Pyramidal" stabil. Gestrige Long Run Einheit (100 min, 432 hm) perfekt für ZUT-Vorbereitung.
 
 ---
 
-### Dienstag 19.05. — Trail Run *(ZUT Base Start)*
-| | |
-|---|---|
-| Dauer | 60 min |
-| Herzfrequenz | Z1-Z2 (< 150 bpm) |
-| Pace | Nur HR-Steuerung bei Anstiegen |
-| Fokus | Erste trail-spezifische Einheit, Technik bergauf und bergab |
+## Woche 1: 25.05. - 31.05.2026
+
+**Montag 25.05.2026** - Ruhetag (fix)
+
+**Dienstag 26.05.2026** - Trail Run
+**Dauer:** 65 min  
+**Herzfrequenz:** Z1-Z2 (< 150 bpm), Pace > 5:00/km  
+**ODER:** Easy Radfahren 65 min, Z1-Z2 (< 140 bpm)
+
+**Mittwoch 27.05.2026** - Easy Run + Krafttraining  
+**Dauer:** 45 min  
+**Herzfrequenz:** Z1-Z2 (< 150 bpm), Pace > 5:00/km  
+**ODER:** Easy Radfahren 65 min, Z1-Z2 (< 140 bpm)  
+**PLUS:** Krafttraining 45 min laufspezifisch
+
+**Donnerstag 28.05.2026** - Hill Run 2  
+**Dauer:** 60 min  
+**Herzfrequenz:** Flach Z1-Z2 (< 150 bpm), Anstiege Z3 (151-160 bpm)
+
+**Freitag 29.05.2026** - Ruhetag
+
+**Samstag 30.05.2026** - Long Run  
+**Dauer:** 115 min  
+**Herzfrequenz:** Z1-Z2 (< 150 bpm), Pace > 5:00/km
+
+**Sonntag 31.05.2026** - Easy Radfahren (optional)  
+**Dauer:** 95 min  
+**Herzfrequenz:** Z1-Z2 (< 140 bpm)
 
 ---
 
-### Mittwoch 20.05. — Easy Laufen + Kraft
-| | |
-|---|---|
-| Dauer | 45 min Laufen + 45 min Kraft |
-| Herzfrequenz | Z1-Z2 (< 150 bpm) |
-| Pace | > 5:00/km |
-| Fokus | Laufspezifisches Krafttraining: Hüfte, Core, Stabilität |
+## Woche 2: 01.06. - 07.06.2026
 
-**ODER:** Easy Radfahren 65 min, Z1-Z2 (< 140 bpm) + 45 min Kraft
+**Montag 01.06.2026** - Ruhetag (fix)
 
----
+**Dienstag 02.06.2026** - Trail Run  
+**Dauer:** 70 min  
+**Herzfrequenz:** Z1-Z2 (< 150 bpm), Pace > 5:00/km  
+**ODER:** Easy Radfahren 70 min, Z1-Z2 (< 140 bpm)
 
-### Donnerstag 21.05. — Hill Run
-| | |
-|---|---|
-| Dauer | 55 min |
-| Herzfrequenz | Z1-Z2 (< 150 bpm) flach · Anstiege bis Z3 (< 160 bpm) |
-| Pace | Nur HR-Steuerung bei Hügeln |
-| Fokus | 6–8 × 90s Bergauf-Intervalle, volle Erholung bergab (Gehen) |
+**Mittwoch 03.06.2026** - Easy Run + Krafttraining  
+**Dauer:** 50 min  
+**Herzfrequenz:** Z1-Z2 (< 150 bpm), Pace > 5:00/km  
+**ODER:** Easy Radfahren 70 min, Z1-Z2 (< 140 bpm)  
+**PLUS:** Krafttraining 45 min laufspezifisch
 
----
+**Donnerstag 04.06.2026** - Hill Run 3  
+**Dauer:** 65 min  
+**Herzfrequenz:** Flach Z1-Z2 (< 150 bpm), Anstiege Z3 (151-160 bpm)
 
-### Freitag 22.05. — Ruhetag
+**Freitag 05.06.2026** - Ruhetag
 
----
+**Samstag 06.06.2026** - Long Run (trail-spezifisch)  
+**Dauer:** 125 min  
+**Herzfrequenz:** Z1-Z2 (< 150 bpm), Pace > 5:00/km
 
-### Samstag 23.05. — Long Run *(trail-orientiert)*
-| | |
-|---|---|
-| Dauer | 105 min |
-| Herzfrequenz | Z1-Z2 (< 150 bpm) |
-| Pace | > 5:00/km auf flachen Abschnitten · Hügel nur HR |
-| Fokus | Erste längere Trail-Einheit, Höhenmeter sammeln |
+**Sonntag 07.06.2026** - Easy Radfahren (optional)  
+**Dauer:** 100 min  
+**Herzfrequenz:** Z1-Z2 (< 140 bpm)
 
 ---
 
-### Sonntag 24.05. — Easy Radfahren *(optional)*
-| | |
-|---|---|
-| Dauer | 90 min |
-| Herzfrequenz | Z1-Z2 (< 140 bpm) |
-| Fokus | Aktive Recovery nach Long Run |
+## Wochenvolumen
 
----
+### **Woche 1 (25.-31. Mai):**
+- **Gesamtstunden:** 6,5-7,5h
+- **Lauf-Kilometer:** ~45-55 km  
+- **Rad-Kilometer:** ~50-65 km
 
-### Wochenvolumen 1
-| Metric | Ziel |
-|---|---|
-| Gesamtstunden | ~5.5–6h |
-| Laufen | ~35–40 km |
-| Radfahren | ~40–50 km |
-
----
-
-## Woche 2: 25.05. – 31.05.2026
-
-### Montag 25.05. — Ruhetag (fix)
-
----
-
-### Dienstag 26.05. — Trail Run
-| | |
-|---|---|
-| Dauer | 65 min |
-| Herzfrequenz | Z1-Z2 (< 150 bpm) |
-| Pace | Nur HR-Steuerung bei Anstiegen |
-| Fokus | Sanfter Aufbau, Technik bergab |
-
----
-
-### Mittwoch 27.05. — Easy Laufen + Kraft
-| | |
-|---|---|
-| Dauer | 45 min Laufen + 45 min Kraft |
-| Herzfrequenz | Z1-Z2 (< 150 bpm) |
-| Pace | > 5:00/km |
-| Fokus | Laufspezifisches Krafttraining: Hüfte, Core, Stabilität |
-
-**ODER:** Easy Radfahren 70 min, Z1-Z2 (< 140 bpm) + 45 min Kraft
-
----
-
-### Donnerstag 28.05. — Hill Run 2
-| | |
-|---|---|
-| Dauer | 60 min |
-| Herzfrequenz | Z1-Z2 (< 150 bpm) flach · Anstiege bis Z3 (< 160 bpm) |
-| Pace | Nur HR-Steuerung bei Hügeln |
-| Fokus | 6–8 × 90–120s Bergauf, mehr Volumen als Woche 1 |
-
----
-
-### Freitag 29.05. — Ruhetag
-
----
-
-### Samstag 30.05. — Long Run *(trail-spezifisch)*
-| | |
-|---|---|
-| Dauer | 115 min |
-| Herzfrequenz | Z1-Z2 (< 150 bpm) |
-| Pace | > 5:00/km auf flachen Abschnitten · Hügel nur HR |
-| Fokus | Längste Einheit der Phase, trail-spezifisch mit Höhenmetern |
-
----
-
-### Sonntag 31.05. — Easy Radfahren *(optional)*
-| | |
-|---|---|
-| Dauer | 95 min |
-| Herzfrequenz | Z1-Z2 (< 140 bpm) |
-| Fokus | Aktive Recovery |
-
----
-
-### Wochenvolumen 2
-| Metric | Ziel |
-|---|---|
-| Gesamtstunden | ~6–6.5h |
-| Laufen | ~40–45 km |
-| Radfahren | ~43–50 km |
-
----
-
-## Hinweise
-
-- **ZUT (19. Juni):** 33 Tage — Höhenmeter haben Vorrang vor Kilometern
-- **Bergauf:** immer HR-gesteuert, keine Pace-Vorgaben
-- **Krafttraining:** 2×/Woche (Mittwoch), NIE vor Hill Run oder Long Run
-- **Rad unter der Woche:** immer ODER-Alternative zum LaufenSamstag 30.05. – Long Run (trail-spezifisch)
-Dauer: 115 min
-Herzfrequenz: Z1-Z2 (< 150 bpm), Hügel nur HR-gesteuert
-Pace: > 5:00/km auf flachen Abschnitten
-Fokus: Längste Einheit der Phase, trail-spezifisch mit Höhenmetern
-Sonntag 31.05. – Easy Radfahren (optional)
-Dauer: 95 min
-Herzfrequenz: Z1-Z2 (< 140 bpm)
-Fokus: Aktive Recovery
-Wochenvolumen 2:
-
-Gesamtstunden: ~6–6.5h
-Laufen: ~40–45 km
-Rad: ~43–50 km
-
-
-Wichtige Hinweise
-
-Zugspitz Ultratrail: 33 Tage (19. Juni) — Höhenmeter haben Vorrang vor Kilometern
-Bergauf immer HR-gesteuert, keine Pace
-Kraft bleibt bei 2×/Woche (Mi), NIE vor Hill Run oder Long Run
-
-
----
-
-## Morgencheck-Anpassungen
-
-### 2026-05-17
-DATUM: 2026-05-17
-AENDERUNG: Keine - Plan bereits korrekt in Intervals.icu eingetragen
-GRUND: Der Trainingsplan entspricht dem besprochenen ZUT Base-Phase Plan und ist vollständig
-
-### 2026-05-17
-DATUM: 2026-05-17
-AENDERUNG: Alle Einträge 19.-31. Mai gelöscht und neu eingetragen entsprechend dem korrekten ZUT Base-Wochenplan
-GRUND: Der vorherige Plan wies Unterschiede zum gewünschten Plan auf - jetzt korrekt mit Ruhetagen am Freitag statt Sonntag, ODER-Alternativen bei Rad-Einheiten unter der Woche
-
-### 2026-05-17
-DATUM: 2026-05-17
-AENDERUNG: Kompletter Trainingsplan 19.05. - 31.05.2026 in Intervals.icu eingetragen basierend auf GitHub Wochenplan
-GRUND: Manuelle Löschung durch Fabian - Neueintragung mit korrekten ZUT Base-Phase Einheiten entsprechend dem vordefinierten GitHub-Plan
-
-### 2026-05-21
-DATUM: 21.05.2026
-AENDERUNG: Hill Run 55 min von heute auf morgen verschoben, morgen wird dadurch Trainings- statt Ruhetag
-GRUND: Zeitliche Unmöglichkeit der heutigen Einheit
-
-### 2026-05-22
-DATUM: 2026-05-22
-AENDERUNG: Hill Run von gestern auf heute durchgeführt wie geplant
-GRUND: Zeitliche Verschiebung von Donnerstag auf Freitag erfolgt planmäßig
-
-### 2026-05-24
-DATUM: 2026-05-24
-AENDERUNG: Easy Radfahren von 90 min auf 60-75 min reduziert wegen ACWR-Warnung, alternativ Ruhetag möglich
-GRUND: ACWR 1.31 triggert P1 Modify-Empfehlung - Belastungssteuerung nach erfolgreichem Long Run gestern
+### **Woche 2 (01.-07. Juni):**
+- **Gesamtstunden:** 7,5-8,5h
+- **Lauf-Kilometer:** ~55-65 km  
+- **Rad-Kilometer:** ~55-70 km
