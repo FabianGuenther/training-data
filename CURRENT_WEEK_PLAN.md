@@ -208,3 +208,8 @@ GRUND: Zeitliche Unmöglichkeit der heutigen Einheit
 DATUM: 2026-05-22
 AENDERUNG: Hill Run von gestern auf heute durchgeführt wie geplant
 GRUND: Zeitliche Verschiebung von Donnerstag auf Freitag erfolgt planmäßig
+
+### 2026-05-24
+DATUM: 2026-05-24
+AENDERUNG: Easy Radfahren von 90 min auf 60-75 min reduziert wegen ACWR-Warnung, alternativ Ruhetag möglich
+GRUND: ACWR 1.31 triggert P1 Modify-Empfehlung - Belastungssteuerung nach erfolgreichem Long Run gestern
