@@ -613,3 +613,26 @@ ODER: **Radfahren 65 min, Z1-Z2 (< 140 bpm) + Krafttraining 45 min**
 ## 4) Wichtige Hinweise
 - **Zugspitz Ultratrail:** 27 Tage (19. Juni) - trail-spezifische Long Run für 29 km Vorbereitung
 - **Morgen:** Easy Radfahren 90 min (optional) geplant - perfekte aktive Recovery
+
+---
+
+## 2026-05-24
+
+# Morgencheck - Sonntag, 24. Mai 2026
+
+## 1) Erholungsstatus
+**35 Tage nach Wien Marathon** - ZUT Base-Phase läuft sehr gut! TSB -3.1 zeigt optimale Trainingsbalance. Phase "Base" (medium confidence) mit TID "Pyramidal" stabil. ACWR 1.31 warnt am Rand der optimalen Range - grenzwertig.
+
+**Readiness:** Modify (P1 akute Belastungswarnung wegen ACWR 1.31)
+
+## 2) Gestriges Training
+**Samstag 23.05.:** 100 min Evening Lauf, 143 bpm Ø, Feel 1 ("Strong") - hervorragender Long Run! 432 hm in 100 min, TSS 92, perfekt für ZUT-Vorbereitung. Längste Einheit der Phase erfolgreich absolviert.
+
+## 3) Empfehlung für heute
+**Easy Radfahren 60-75 min, Z1-Z2 (< 140 bpm)** - reduziert wegen ACWR-Warnung
+- Geplant waren 90 min → auf 60-75 min kürzen  
+- ODER: Ruhetag - bei ACWR 1.31 ist zusätzliche Erholung sinnvoll
+
+## 4) Wichtige Hinweise
+- **Zugspitz Ultratrail:** 26 Tage (19. Juni) - gestern perfekte trail-spezifische Long Run Einheit
+- **ACWR 1.31** am Rand der optimalen Range - Volumen heute reduzieren oder pausieren
