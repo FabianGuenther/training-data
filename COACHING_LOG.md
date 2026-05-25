@@ -636,3 +636,27 @@ ODER: **Radfahren 65 min, Z1-Z2 (< 140 bpm) + Krafttraining 45 min**
 ## 4) Wichtige Hinweise
 - **Zugspitz Ultratrail:** 26 Tage (19. Juni) - gestern perfekte trail-spezifische Long Run Einheit
 - **ACWR 1.31** am Rand der optimalen Range - Volumen heute reduzieren oder pausieren
+
+---
+
+## 2026-05-25
+
+# Morgencheck - Montag, 25. Mai 2026
+
+## 1) Erholungsstatus
+**36 Tage nach Wien Marathon** - ACWR 1.31 grenzwertig nach gestrigem Long Run. TSB +0.2 zeigt ausgeglichene Balance. Phase "Base" (medium confidence) mit TID "Pyramidal" stabil. 0 harte Tage diese Woche, aber Belastungswarnung aktiv.
+
+**Readiness:** Modify (P1 akute Belastungswarnung wegen ACWR 1.31)
+
+## 2) Gestriges Training
+**Sonntag 24.05.:** Ruhetag wie im Plan - nach dem erfolgreichen Long Run am Samstag (100 min Evening Lauf, 143 bpm Ø, Feel 1, 432 hm, TSS 92).
+
+## 3) Empfehlung für heute
+**PLAN: Ruhetag** - wie immer montags
+- Regulärer wöchentlicher Ruhetag gemäß festem Montag-Ruhetag-Schema
+- ACWR 1.31 unterstützt zusätzliche Erholung nach dem gestrigen Long Run
+- **Morgen:** Trail Run 65 min, Z1-Z2 (< 150 bpm), Pace > 5:00/km
+
+## 4) Wichtige Hinweise
+- **Zugspitz Ultratrail:** 25 Tage (19. Juni) - ZUT Base-Phase läuft optimal
+- **ACWR 1.31** normalisiert sich automatisch in den nächsten Tagen - kein Grund zur Sorge
