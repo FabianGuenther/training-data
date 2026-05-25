@@ -1,99 +1,10 @@
 {
-  "generated_at": "2026-05-24T23:41:45.999036",
+  "generated_at": "2026-05-25T01:52:20.141035",
   "version": "3.104",
   "script_hash": "744b8033c4af",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i147001372",
-      "date": "2026-05-10",
-      "type": "Ride",
-      "name": "Buttenheim Rennradfahren",
-      "interval_summary": [
-        "2x 16m37s 133bpm",
-        "1x 9m54s 145bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "997s@133bpm",
-          "duration_secs": 1016,
-          "avg_hr": 130,
-          "max_hr": 148,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "997s@133bpm",
-          "duration_secs": 977,
-          "avg_hr": 135,
-          "max_hr": 149,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "594s@145bpm",
-          "duration_secs": 594,
-          "avg_hr": 145,
-          "max_hr": 166,
-          "zone": 2
-        }
-      ]
-    },
-    {
-      "activity_id": "i147001255",
-      "date": "2026-05-10",
-      "type": "Ride",
-      "name": "Bamberg Rennradfahren",
-      "interval_summary": [
-        "1x 1h36m 108bpm",
-        "3x 17m45s 136bpm",
-        "1x 2m24s 129bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "5802s@108bpm",
-          "duration_secs": 5802,
-          "avg_hr": 108,
-          "max_hr": 134,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "1065s@136bpm",
-          "duration_secs": 1128,
-          "avg_hr": 134,
-          "max_hr": 171,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "1065s@136bpm",
-          "duration_secs": 1020,
-          "avg_hr": 135,
-          "max_hr": 153,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "1065s@136bpm",
-          "duration_secs": 1046,
-          "avg_hr": 138,
-          "max_hr": 162,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "144s@129bpm",
-          "duration_secs": 144,
-          "avg_hr": 129,
-          "max_hr": 146,
-          "zone": 1
-        }
-      ]
-    },
     {
       "activity_id": "i147571705",
       "date": "2026-05-12",
