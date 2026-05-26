@@ -660,3 +660,29 @@ ODER: **Radfahren 65 min, Z1-Z2 (< 140 bpm) + Krafttraining 45 min**
 ## 4) Wichtige Hinweise
 - **Zugspitz Ultratrail:** 25 Tage (19. Juni) - ZUT Base-Phase läuft optimal
 - **ACWR 1.31** normalisiert sich automatisch in den nächsten Tagen - kein Grund zur Sorge
+
+---
+
+## 2026-05-26
+
+# Morgencheck - Dienstag, 26. Mai 2026
+
+## 1) Erholungsstatus
+**ACWR 1.39 - akute Belastungswarnung!** TSB -3.2 zeigt Trainingsbalance. Phase "Base" (medium confidence) mit TID "Pyramidal" stabil. P1-Warnung wegen ACWR ≥1.35 - automatische Trainingsanpassung erforderlich.
+
+**Readiness:** Modify (P1 akute Belastungswarnung)
+
+## 2) Gestriges Training
+**Montag 25.05.:** Ruhetag - regulärer Montag-Ruhetag
+
+## 3) Empfehlung für heute
+**PLAN ANPASSEN: Lauf auf 45 min reduziert statt 65 min wie geplant**
+
+**Easy Run 45 min, Z1-Z2 (< 150 bpm), Pace > 5:00/km**
+ODER: **Radfahren 45 min, Z1-Z2 (< 140 bpm)**
+
+ACWR 1.39 erfordert sofortige Volumenreduktion zur Verletzungsprophylaxe.
+
+## 4) Wichtige Hinweise
+- **Zugspitz Ultratrail:** 24 Tage - ZUT Base-Phase läuft weiter, aber angepasst
+- **ACWR normalisiert sich** automatisch in 1-2 Tagen mit reduziertem Volumen
