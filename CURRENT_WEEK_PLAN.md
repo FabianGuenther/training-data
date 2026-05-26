@@ -83,3 +83,12 @@ Erstellt am: 2026-05-24
 - **Gesamtstunden:** 7,5-8,5h
 - **Lauf-Kilometer:** ~55-65 km  
 - **Rad-Kilometer:** ~55-70 km
+
+---
+
+## Morgencheck-Anpassungen
+
+### 2026-05-26
+DATUM: 2026-05-26
+AENDERUNG: Trail Run von 65 min auf 45 min reduziert
+GRUND: ACWR 1.39 ≥1.35 - Verletzungsrisiko, P1 akute Belastungswarnung
