@@ -97,3 +97,8 @@ GRUND: ACWR 1.39 ≥1.35 - Verletzungsrisiko, P1 akute Belastungswarnung
 DATUM: 2026-05-26
 AENDERUNG: Trail Run auf 45 min reduziert statt 65 min
 GRUND: ACWR 1.39 ≥1.35 durch zusätzliche Radeinheit So 25.05. (117 min, TSS 68) - akute Belastungswarnung P1
+
+### 2026-05-26
+DATUM: 2026-05-26
+AENDERUNG: Trail Run von 65 min auf 45 min reduziert
+GRUND: ACWR 1.39 ≥1.35 - Verletzungsrisiko, P1 akute Belastungswarnung nach Long Run (Sa) + Radfahrt (Mo)
