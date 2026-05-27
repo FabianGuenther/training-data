@@ -102,3 +102,8 @@ GRUND: ACWR 1.39 ≥1.35 durch zusätzliche Radeinheit So 25.05. (117 min, TSS 6
 DATUM: 2026-05-26
 AENDERUNG: Trail Run von 65 min auf 45 min reduziert
 GRUND: ACWR 1.39 ≥1.35 - Verletzungsrisiko, P1 akute Belastungswarnung nach Long Run (Sa) + Radfahrt (Mo)
+
+### 2026-05-27
+DATUM: 2026-05-27
+AENDERUNG: Easy Run 50-60 min statt Radfahren heute
+GRUND: Wetter erlaubt kein Radfahren, Lauf ist perfekte Alternative
