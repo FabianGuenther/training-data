@@ -107,3 +107,8 @@ GRUND: ACWR 1.39 ≥1.35 - Verletzungsrisiko, P1 akute Belastungswarnung nach Lo
 DATUM: 2026-05-27
 AENDERUNG: Easy Run 50-60 min statt Radfahren heute
 GRUND: Wetter erlaubt kein Radfahren, Lauf ist perfekte Alternative
+
+### 2026-05-28
+DATUM: 2026-05-28
+AENDERUNG: Hill Run von 60 min auf 45 min reduziert
+GRUND: ACWR 1.41 ≥1.35 - Verletzungsrisiko, P1 akute Belastungswarnung
