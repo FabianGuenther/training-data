@@ -708,3 +708,31 @@ Bei TSB +0.2, ACWR 1.25 optimal und 0 harten Tagen diese Woche - perfekte Voraus
 ## 4) Wichtige Hinweise
 - **Zugspitz Ultratrail:** 23 Tage (19. Juni) - ZUT Base-Phase läuft planmäßig
 - **Morgen:** Hill Run 2 geplant (60 min) - zweite Hill Run Einheit der Trail-Vorbereitung
+
+---
+
+## 2026-05-28
+
+# Morgencheck - Donnerstag, 28. Mai 2026
+
+## 1) Erholungsstatus
+**38 Tage nach Wien Marathon** - ACWR 1.41 ALARM! TSB -0.7 zeigt Trainingsbalance. Phase "Base" (medium confidence) mit TID "Pyramidal" stabil. P1 akute Belastungswarnung durch ACWR ≥1.35.
+
+**Readiness:** Modify (P1 akute Belastungswarnung wegen ACWR 1.41)
+
+## 2) Gestriges Training
+**Mittwoch 27.05.:** 50 min Afternoon Laufen, 139 bpm Ø, TSS 40 - sehr gute Easy Run Einheit! HR perfekt in Z2 (136-150 bpm), Pace 5:22/km optimal, 117 hm gesammelt.
+
+ACWR 1.41 durch mehrere Einheiten: Samstag Long Run (100 min, TSS 92) + Montag Radfahrt (117 min, TSS 68) + gestrige Einheit - kumulative Belastung überschreitet sicheren Bereich.
+
+## 3) Empfehlung für heute
+**PLAN ANPASSEN: Hill Run auf 45 min reduziert statt 60 min wie geplant**
+
+**Hill Run 45 min - Z1-Z2 (< 150 bpm) flach, Anstiege Z3 (151-160 bpm)**
+ODER: **Radfahren 45 min, Z1-Z2 (< 140 bpm)**
+
+ACWR 1.41 erfordert sofortige Volumenreduktion zur Verletzungsprophylaxe.
+
+## 4) Wichtige Hinweise
+- **Zugspitz Ultratrail:** 22 Tage - ZUT Base-Phase läuft weiter, aber angepasst
+- **ACWR normalisiert sich** automatisch in 1-2 Tagen mit reduziertem Volumen
