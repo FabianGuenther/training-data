@@ -112,3 +112,8 @@ GRUND: Wetter erlaubt kein Radfahren, Lauf ist perfekte Alternative
 DATUM: 2026-05-28
 AENDERUNG: Hill Run von 60 min auf 45 min reduziert
 GRUND: ACWR 1.41 ≥1.35 - Verletzungsrisiko, P1 akute Belastungswarnung
+
+### 2026-05-28
+DATUM: 2026-05-28
+AENDERUNG: Hill Run von 60 min auf 47 min Easy Run reduziert - tatsächlich ausgeführt
+GRUND: ACWR 1.54 ≥ 1.5 - Verletzungsrisiko, P1 akute Belastungswarnung
