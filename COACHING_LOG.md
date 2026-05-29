@@ -736,3 +736,26 @@ ACWR 1.41 erfordert sofortige Volumenreduktion zur Verletzungsprophylaxe.
 ## 4) Wichtige Hinweise
 - **Zugspitz Ultratrail:** 22 Tage - ZUT Base-Phase läuft weiter, aber angepasst
 - **ACWR normalisiert sich** automatisch in 1-2 Tagen mit reduziertem Volumen
+
+---
+
+## 2026-05-29
+
+# Morgencheck - Freitag, 29. Mai 2026
+
+## 1) Erholungsstatus
+**40 Tage nach Wien Marathon** - ACWR 1.31 weiter im Warnbereich, aber stabilisiert. TSB -1.2 zeigt Trainingsbalance. Phase "Base" (medium confidence) mit TID "Pyramidal" stabil. P1 Belastungswarnung aktiv - automatische Anpassung erforderlich.
+
+**Readiness:** Modify (P1 akute Belastungswarnung wegen ACWR 1.31)
+
+## 2) Gestriges Training
+**Donnerstag 28.05.:** 47 min Lunch Laufen, 138 bpm Ø, Feel 2 ("Good"), TSS 38 - sehr gute Anpassung! Die Reduzierung von geplantem Hill Run auf Easy Run war richtig. ACWR durch kumulative Belastung: Samstag Long Run (100 min, TSS 92) + Montag Radfahrt (117 min, TSS 68) + Mittwoch (50 min, TSS 40) + gestern (47 min, TSS 38).
+
+## 3) Empfehlung für heute
+**PLAN: Ruhetag** - wie geplant im Wochenplan
+- Regulärer Freitag-Ruhetag bei ACWR 1.31 Warnlage
+- **Morgen:** Long Run 115 min, Z1-Z2 (< 150 bpm), Pace > 5:00/km
+
+## 4) Wichtige Hinweise
+- **Zugspitz Ultratrail:** 21 Tage (19. Juni) - ZUT Base-Phase läuft planmäßig trotz Anpassungen
+- **ACWR normalisiert sich** mit heutigem Ruhetag automatisch für das Wochenende
