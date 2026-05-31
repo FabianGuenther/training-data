@@ -781,3 +781,27 @@ ACWR 1.41 erfordert sofortige Volumenreduktion zur Verletzungsprophylaxe.
 ## 4) Wichtige Hinweise
 - **Zugspitz Ultratrail:** 20 Tage (19. Juni) - trail-spezifische Long Run für 29 km Vorbereitung
 - **Morgen:** Easy Radfahren 95 min (optional) geplant - perfekte aktive Recovery
+
+---
+
+## 2026-05-31
+
+# Morgencheck - Sonntag, 31. Mai 2026
+
+## 1) Erholungsstatus
+**42 Tage nach Wien Marathon** - ZUT Base-Phase läuft optimal! TSB -4.5 ausgeglichen, ACWR 1.18 optimal. 4 Signale fehlen, aber grünes Licht (P3). 1 harter Tag diese Woche erfolgreich absolviert.
+
+**Readiness:** Go (grünes Licht)
+
+## 2) Gestriges Training
+**Samstag 30.05.:** Lunch Laufen 106 min, 144 bpm Ø, Feel 4 ("Poor"), TSS 98 - hervorragender Long Run! 437 hm bei 30°C Außentemperatur. Feel 4 durch Hitzebelastung verständlich, nicht durch Überanstrengung.
+
+## 3) Empfehlung für heute
+**Easy Radfahren 95 min, Z1-Z2 (< 140 bpm)** - wie geplant
+- TSB -4.5 optimal, ACWR 1.18 perfekte Belastung
+- Aktive Recovery nach gestrigem Long Run in der Hitze
+- Optional laut Wochenplan - bei Feel 4 gestern sinnvolle Recovery
+
+## 4) Wichtige Hinweise
+- **Zugspitz Ultratrail:** 19 Tage (19. Juni) - ZUT Base-Phase auf Kurs
+- **Hitze-Kontext:** 30°C gestern erklären erhöhte HR/Feel - normale Reaktion
