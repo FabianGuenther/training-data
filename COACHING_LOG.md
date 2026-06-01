@@ -805,3 +805,25 @@ ACWR 1.41 erfordert sofortige Volumenreduktion zur Verletzungsprophylaxe.
 ## 4) Wichtige Hinweise
 - **Zugspitz Ultratrail:** 19 Tage (19. Juni) - ZUT Base-Phase auf Kurs
 - **Hitze-Kontext:** 30°C gestern erklären erhöhte HR/Feel - normale Reaktion
+
+---
+
+## 2026-06-01
+
+# Morgencheck - Montag, 1. Juni 2026
+
+## 1) Erholungsstatus
+**42 Tage nach Wien Marathon** - ZUT Base-Phase erfolgreich! TSB -0.8 ausgeglichen, ACWR 0.88 optimal. Phase "Base" (high confidence) mit TID "Pyramidal" stabil. P3 grünes Licht - optimale Trainingsvoraussetzungen.
+
+## 2) Gestriges Training
+**Sonntag 31.05.:** Ruhetag - regulärer Sonntag-Ruhetag nach dem hervorragenden Long Run am Samstag (106 min, 144 bpm Ø, 437 hm, TSS 98).
+
+## 3) Empfehlung für heute
+**PLAN: Ruhetag** - wie immer montags
+- Regulärer wöchentlicher Ruhetag gemäß festem Montag-Ruhetag-Schema
+- TSB -0.8 optimal, ACWR 0.88 und P3 grünes Licht
+- **Morgen:** Trail Run 70 min, Z1-Z2 (< 150 bpm), Pace > 5:00/km
+
+## 4) Wichtige Hinweise
+- **Zugspitz Ultratrail:** 18 Tage (19. Juni) - ZUT Base-Phase optimal auf Kurs
+- **Morgen:** Start der zweiten Woche im 14-Tage-Plan - Trail Run 70 min geplant
