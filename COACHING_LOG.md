@@ -849,3 +849,25 @@ Bei TSB +2.3, ACWR 0.88 optimal und P3 grünes Licht - perfekte Voraussetzungen 
 ## 4) Wichtige Hinweise
 - **Zugspitz Ultratrail:** 17 Tage (19. Juni) - trail-spezifische Vorbereitung optimal auf Kurs
 - **Morgen:** Easy Run 50 min + Krafttraining 45 min geplant
+
+---
+
+## 2026-06-03
+
+# Morgencheck - Mittwoch, 3. Juni 2026
+
+## 1) Erholungsstatus
+**45 Tage nach Wien Marathon** - ZUT Base-Phase läuft optimal! TSB +0.7 ausgeglichen, ACWR 0.86 optimal. Phase "Base" (high confidence) mit TID "Pyramidal" stabil. P3 grünes Licht - perfekte Trainingsvoraussetzungen.
+
+## 2) Gestriges Training
+**Dienstag 02.06.:** Bamberg Rennradfahren 67 min, 131 bpm Ø, TSS 45 - sehr gute Easy Rad Einheit! HR perfekt in Z1-Z2 (< 140 bpm), 33,3 km bei 27°C. Planmäßige erste Einheit der zweiten Woche im 14-Tage-Plan.
+
+## 3) Empfehlung für heute
+**PLAN: Easy Run 50 min wie geplant - Z1-Z2 (< 150 bpm), Pace > 5:00/km + Krafttraining 45 min**
+ODER: **Radfahren 70 min, Z1-Z2 (< 140 bpm) + Krafttraining 45 min**
+
+Krafttraining 45 min laufspezifisch (Hüfte, Core, Stabilität).
+
+## 4) Wichtige Hinweise
+- **Zugspitz Ultratrail:** 16 Tage (19. Juni) - ZUT Base-Phase optimal auf Kurs
+- **Morgen:** Hill Run 3 geplant (65 min) - dritte Hill Run Einheit für trail-spezifische Vorbereitung
