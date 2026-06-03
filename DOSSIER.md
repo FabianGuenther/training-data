@@ -115,12 +115,19 @@
 
 - **Structure:** Prefers structured training blocks with built-in flexibility
 - **Planning cadence:** Weekly review before each new week + 2–3 week block previews
-- **Rest days:** Monday (fixed rest day). Friday rest day when on 5-session weeks.
-- **Hard session days:** Flexible — Tuesday, Wednesday, Thursday, Saturday, Sunday
+- **Weekly rhythm:**
+  - Monday: Fixed rest day
+  - Tuesday: Training day (quality sessions possible)
+  - Wednesday: Optional — easy run, recovery ride, or rest depending on load
+  - Thursday: Training day (quality sessions possible)
+  - Friday: Fixed rest day (standard weeks)
+  - Saturday + Sunday: Weekend block (back-to-back possible, long run preferred Saturday)
+- **Hard session days:** Tuesday, Thursday, Saturday
+- **Back-to-back:** Saturday + Sunday for ultra/trail-specific load simulation
 - **Environment:** Outdoor only
 - **Terrain:** Trails preferred. No major mountains nearby — flat/rolling trail terrain typical.
 - **Indoor training:** None
-- **Bike training:** Especialy on the weekends and more as an alternative. Running is the primary focus.
+- **Bike training:** Especially on weekends and more as an alternative. Running is the primary focus.
 
 ---
 
