@@ -85,18 +85,27 @@ ODER: Radfahren X min, Z1-Z2 (< 140 bpm)
 
 ---
 
-## 5. Einheiten pro Woche
+## 5. Wochenrhythmus
 
-| Phase | Pflicht | Optional | Maximum |
-|-------|---------|----------|---------|
-| Recovery | 3 | 1 | 4 |
-| Base / Build | 4 | 1 | 5 |
-| ZUT / Marathon Prep (6-12 Wo vor Rennen) | 5 | 1 | 6 |
+**Standard-Wochenstruktur:**
 
-- Optionale Einheiten sparsam einsetzen — nie als Standard
-- NIEMALS 6 Pflichteinheiten in Recovery oder Base
+| Tag | Standard | Anmerkung |
+|-----|----------|-----------|
+| Montag | Ruhetag (fix) | Immer |
+| Dienstag | Trainingstag | Qualität möglich |
+| Mittwoch | Optional | Easy Run / Erholung / Ruhetag je nach Load |
+| Donnerstag | Trainingstag | Qualität möglich |
+| Freitag | Ruhetag (fix) | Standard |
+| Samstag | Trainingstag | Long Run oder Quality |
+| Sonntag | Trainingstag | Back-to-Back mit Samstag möglich |
 
----
+**Regeln:**
+- Mittwoch ist KEIN Pflicht-Trainingstag — nur einplanen wenn Load und Erholung es erlauben
+- Qualitäts-Einheiten (Intervalle, Tempo, Long Run) bevorzugt Di, Do, Sa
+- Samstag + Sonntag Back-to-Back für Trail/Ultra-spezifische Vorbereitung (ZUT)
+- Bei 4 Einheiten: Di + Do + Sa + So (oder Sa ohne So)
+- Bei 3 Einheiten (Recovery): Di + Do + Sa
+- Mittwoch-Einheit immer Easy (Z1-Z2) — niemals hart nach hartem Dienstag
 
 ## 6. Trainings-Priorität
 
