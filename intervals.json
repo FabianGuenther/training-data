@@ -1,102 +1,10 @@
 {
-  "generated_at": "2026-06-02T22:32:00.080901",
+  "generated_at": "2026-06-03T00:15:48.218840",
   "version": "3.104",
   "script_hash": "744b8033c4af",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i149648521",
-      "date": "2026-05-19",
-      "type": "Run",
-      "name": "Lunch Laufen",
-      "interval_summary": [
-        "9x 5m47s 133bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "347s@133bpm79rpm",
-          "duration_secs": 319,
-          "avg_hr": 141,
-          "max_hr": 157,
-          "avg_cadence": 79.83601,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "347s@133bpm79rpm",
-          "duration_secs": 387,
-          "avg_hr": 134,
-          "max_hr": 155,
-          "avg_cadence": 80.07625,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "347s@133bpm79rpm",
-          "duration_secs": 315,
-          "avg_hr": 126,
-          "max_hr": 154,
-          "avg_cadence": 79.06032,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "347s@133bpm79rpm",
-          "duration_secs": 391,
-          "avg_hr": 137,
-          "max_hr": 152,
-          "avg_cadence": 78.42897,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "347s@133bpm79rpm",
-          "duration_secs": 363,
-          "avg_hr": 128,
-          "max_hr": 156,
-          "avg_cadence": 78.78788,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "347s@133bpm79rpm",
-          "duration_secs": 325,
-          "avg_hr": 128,
-          "max_hr": 158,
-          "avg_cadence": 78.71077,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "347s@133bpm79rpm",
-          "duration_secs": 338,
-          "avg_hr": 126,
-          "max_hr": 136,
-          "avg_cadence": 79.0,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "347s@133bpm79rpm",
-          "duration_secs": 365,
-          "avg_hr": 146,
-          "max_hr": 157,
-          "avg_cadence": 79.81644,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "347s@133bpm79rpm",
-          "duration_secs": 317,
-          "avg_hr": 128,
-          "max_hr": 142,
-          "avg_cadence": 79.23344,
-          "zone": 1
-        }
-      ]
-    },
     {
       "activity_id": "i150102073",
       "date": "2026-05-20",
