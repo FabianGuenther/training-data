@@ -871,3 +871,24 @@ Krafttraining 45 min laufspezifisch (Hüfte, Core, Stabilität).
 ## 4) Wichtige Hinweise
 - **Zugspitz Ultratrail:** 16 Tage (19. Juni) - ZUT Base-Phase optimal auf Kurs
 - **Morgen:** Hill Run 3 geplant (65 min) - dritte Hill Run Einheit für trail-spezifische Vorbereitung
+
+---
+
+## 2026-06-04
+
+# Morgencheck - Donnerstag, 4. Juni 2026
+
+## 1) Erholungsstatus
+**46 Tage nach Wien Marathon** - ZUT Base-Phase läuft optimal! TSB +3.6 ausgeglichen, ACWR 0.71 zeigt gute Trainingsbalance. Phase "Base" (high confidence) mit TID "Pyramidal" stabil. P3 grünes Licht - perfekte Voraussetzungen für heutiges Training. 0 harte Tage diese Woche bisher.
+
+## 2) Gestriges Training
+**Mittwoch 03.06.:** Kein Training absolviert - geplant war optional Easy Run 50 min oder Radfahren. Letztes Training war Dienstag 02.06. (Bamberg Rennradfahren 67 min, 131 bpm Ø, TSS 45).
+
+## 3) Empfehlung für heute
+**PLAN: Hill Run 65 min wie geplant - Flach Z1-Z2 (< 150 bpm), Anstiege Z3 (151-160 bpm)**
+
+Bei TSB +3.6, ACWR 0.71 und P3 grünes Licht - optimale Voraussetzungen für den geplanten Hill Run. Dritte Hill Run Einheit der ZUT Base-Phase für trail-spezifische Vorbereitung.
+
+## 4) Wichtige Hinweise
+- **Zugspitz Ultratrail:** 15 Tage (19. Juni) - Hill Run 3 wichtig für trail-spezifische Bergauf-Bewegung
+- **Bergauf:** Komplett HR-gesteuert Z3 (151-160 bpm), keine Pace-Vorgaben
