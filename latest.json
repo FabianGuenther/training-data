@@ -70,7 +70,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-06-07T17:07:07.316511",
+    "last_updated": "2026-06-07T18:18:16.172585",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.104"
@@ -498,7 +498,7 @@
     "p_max": null,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-06-07T17:07:07.315738",
+    "calculation_timestamp": "2026-06-07T18:18:16.171838",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 0,
@@ -1554,7 +1554,7 @@
       "description": "AI Coach | Z1-Z2 (< 140 bpm)"
     },
     {
-      "id": 113355544,
+      "id": 114700584,
       "date": "2026-06-09",
       "name": "Trail Run 75min Z1-Z2",
       "type": "WORKOUT",
@@ -1568,7 +1568,7 @@
       "description": "AI Coach | Z1-Z2 (< 150 bpm), Pace > 5:00/km"
     },
     {
-      "id": 113355545,
+      "id": 114700585,
       "date": "2026-06-09",
       "name": "Easy Rad 75min Z1-Z2",
       "type": "WORKOUT",
@@ -1582,7 +1582,7 @@
       "description": "AI Coach | Z1-Z2 (< 140 bpm)"
     },
     {
-      "id": 113355546,
+      "id": 114700586,
       "date": "2026-06-10",
       "name": "Easy Run 55min Z1-Z2",
       "type": "WORKOUT",
@@ -1596,21 +1596,7 @@
       "description": "AI Coach | Z1-Z2 (< 150 bpm), Pace > 5:00/km"
     },
     {
-      "id": 113355547,
-      "date": "2026-06-10",
-      "name": "Easy Rad 75min Z1-Z2",
-      "type": "WORKOUT",
-      "sport_type": "Ride",
-      "planned_tss": null,
-      "duration_hours": 1.25,
-      "duration_formatted": "1h15m",
-      "workout_summary": null,
-      "has_terrain": false,
-      "start_time": "06:00",
-      "description": "AI Coach | Z1-Z2 (< 140 bpm)"
-    },
-    {
-      "id": 113355549,
+      "id": 114700587,
       "date": "2026-06-10",
       "name": "Kraft 45min",
       "type": "WORKOUT",
@@ -1624,9 +1610,23 @@
       "description": "AI Coach | Laufspezifisch: Huefte, Core, Stabilitaet"
     },
     {
-      "id": 113355548,
+      "id": 114700588,
+      "date": "2026-06-10",
+      "name": "Easy Rad 70min Z1-Z2",
+      "type": "WORKOUT",
+      "sport_type": "Ride",
+      "planned_tss": null,
+      "duration_hours": 1.17,
+      "duration_formatted": "1h10m",
+      "workout_summary": null,
+      "has_terrain": false,
+      "start_time": "06:00",
+      "description": "AI Coach | Z1-Z2 (< 140 bpm)"
+    },
+    {
+      "id": 114700589,
       "date": "2026-06-11",
-      "name": "Hill Run 70min",
+      "name": "Hill Run 70min Z3",
       "type": "WORKOUT",
       "sport_type": "Run",
       "planned_tss": null,
@@ -1638,7 +1638,7 @@
       "description": "AI Coach | Flach Z1-Z2 (< 150 bpm), Anstiege Z3 (151-160 bpm)"
     },
     {
-      "id": 113355551,
+      "id": 114700592,
       "date": "2026-06-13",
       "name": "Long Run 135min Z1-Z2",
       "type": "WORKOUT",
@@ -1652,7 +1652,7 @@
       "description": "AI Coach | Z1-Z2 (< 150 bpm), Pace > 5:00/km"
     },
     {
-      "id": 113355550,
+      "id": 114700593,
       "date": "2026-06-14",
       "name": "Easy Rad 105min Z1-Z2",
       "type": "WORKOUT",
@@ -1664,6 +1664,90 @@
       "has_terrain": false,
       "start_time": "06:00",
       "description": "AI Coach | Z1-Z2 (< 140 bpm)"
+    },
+    {
+      "id": 114700590,
+      "date": "2026-06-16",
+      "name": "Easy Rad 60min Z1-Z2",
+      "type": "WORKOUT",
+      "sport_type": "Ride",
+      "planned_tss": null,
+      "duration_hours": 1.0,
+      "duration_formatted": "1h",
+      "workout_summary": null,
+      "has_terrain": false,
+      "start_time": "06:00",
+      "description_preview": "AI Coach | Z1-Z2 (< 140 bpm)"
+    },
+    {
+      "id": 114700591,
+      "date": "2026-06-16",
+      "name": "ZUT Taper 50min Z1-Z2",
+      "type": "WORKOUT",
+      "sport_type": "Run",
+      "planned_tss": null,
+      "duration_hours": 0.83,
+      "duration_formatted": "50m",
+      "workout_summary": null,
+      "has_terrain": false,
+      "start_time": "06:00",
+      "description_preview": "AI Coach | Z1-Z2 (< 150 bpm), Pace > 5:00/km"
+    },
+    {
+      "id": 114700598,
+      "date": "2026-06-17",
+      "name": "Easy Run 40min Z1",
+      "type": "WORKOUT",
+      "sport_type": "Run",
+      "planned_tss": null,
+      "duration_hours": 0.67,
+      "duration_formatted": "40m",
+      "workout_summary": null,
+      "has_terrain": false,
+      "start_time": "06:00",
+      "description_preview": "AI Coach | Z1 (< 135 bpm), Pace > 5:30/km"
+    },
+    {
+      "id": 114700596,
+      "date": "2026-06-18",
+      "name": "ZUT Opener 45min",
+      "type": "WORKOUT",
+      "sport_type": "Run",
+      "planned_tss": null,
+      "duration_hours": 0.75,
+      "duration_formatted": "45m",
+      "workout_summary": null,
+      "has_terrain": false,
+      "start_time": "06:00",
+      "description_preview": "AI Coach | Z1-Z2 (< 150 bpm) + 4-5 x 30s Z3 (151-160 bpm), volle Erholung"
+    },
+    {
+      "id": 114700595,
+      "date": "2026-06-19",
+      "name": "Easy Run 25min Z1",
+      "type": "WORKOUT",
+      "sport_type": "Run",
+      "planned_tss": null,
+      "duration_hours": 0.42,
+      "duration_formatted": "25m",
+      "workout_summary": null,
+      "has_terrain": false,
+      "start_time": "06:00",
+      "description_preview": "AI Coach | Z1 (< 135 bpm) - nur bei Bedarf"
+    },
+    {
+      "id": 114700597,
+      "date": "2026-06-21",
+      "name": "Recovery 35min Z1",
+      "type": "WORKOUT",
+      "sport_type": "Run",
+      "planned_tss": null,
+      "duration_hours": 0.58,
+      "duration_formatted": "35m",
+      "workout_summary": null,
+      "has_terrain": false,
+      "start_time": "06:00",
+      "description_preview": "AI Coach | Z1 (< 135 bpm) - Post-Race Recovery"
     }
   ],
   "workout_summary_stats": {
@@ -1671,7 +1755,7 @@
     "success": 0,
     "patternA": 0,
     "patternB": 0,
-    "bail_no_workout_doc": 9,
+    "bail_no_workout_doc": 15,
     "bail_no_match": 0
   },
   "weekly_summary": {
