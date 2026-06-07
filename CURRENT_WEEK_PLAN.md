@@ -97,3 +97,8 @@ GRUND: Bessere Recovery zwischen Qualitätseinheiten, flexiblere Wochenendgestal
 DATUM: 2026-06-03
 AENDERUNG: Wochenstruktur von Di-Mi-Do auf Di-Do + Sa-So umgestellt, Mittwoch wird optional
 GRUND: Bessere Recovery zwischen Qualitätseinheiten, flexiblere Wochenendgestaltung für Long Runs und Back-to-Back Training
+
+### 2026-06-07
+DATUM: 2026-06-07
+AENDERUNG: 100 min Easy Radfahren ersetzt durch 60 min Easy Run wegen ungeeignetem Wetter
+GRUND: Schlechte Wetterbedingungen fuer Radfahren, Easy Run als aktive Recovery nach gestrigem Long Run
