@@ -123,3 +123,12 @@ Herzfrequenz: Z1 (< 135 bpm) - nur aktive Recovery falls nötig
 **Zugspitz Ultratrail: 12 Tage - finale trail-spezifische Vorbereitung perfekt auf Kurs!** 🏔️
 
 ---
+
+---
+
+## Morgencheck-Anpassungen
+
+### 2026-06-07
+DATUM: 2026-06-07
+AENDERUNG: Zugspitz Ultratrail von Samstag 20.06. auf Freitag 19.06. korrigiert
+GRUND: Korrektes Renndatum nach Fabian-Hinweis
