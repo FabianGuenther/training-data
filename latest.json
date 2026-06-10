@@ -70,7 +70,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-06-09T22:55:57.042127",
+    "last_updated": "2026-06-10T00:07:12.704071",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.104"
@@ -129,7 +129,7 @@
       },
       "tsb": {
         "status": "green",
-        "value": 3.0
+        "value": 5.6
       }
     },
     "signal_summary": {
@@ -172,10 +172,10 @@
   },
   "current_status": {
     "fitness": {
-      "ctl": 26.87,
-      "atl": 23.84,
-      "tsb": 3.03,
-      "ramp_rate": 0.22,
+      "ctl": 26.24,
+      "atl": 20.67,
+      "tsb": 5.57,
+      "ramp_rate": -0.82,
       "fitness_source": "Decayed from yesterday (today's planned workouts not yet completed)"
     },
     "thresholds": {
@@ -372,12 +372,12 @@
       "power_curve_delta": {
         "window_days": 28,
         "current_window": {
-          "start": "2026-05-13",
-          "end": "2026-06-09"
+          "start": "2026-05-14",
+          "end": "2026-06-10"
         },
         "previous_window": {
-          "start": "2026-04-15",
-          "end": "2026-05-12"
+          "start": "2026-04-16",
+          "end": "2026-05-13"
         },
         "anchors": null,
         "rotation_index": null,
@@ -386,12 +386,12 @@
       "hr_curve_delta": {
         "window_days": 28,
         "current_window": {
-          "start": "2026-05-13",
-          "end": "2026-06-09"
+          "start": "2026-05-14",
+          "end": "2026-06-10"
         },
         "previous_window": {
-          "start": "2026-04-15",
-          "end": "2026-05-12"
+          "start": "2026-04-16",
+          "end": "2026-05-13"
         },
         "anchors": {
           "60s": {
@@ -421,8 +421,8 @@
       "sustainability_profile": {
         "window": {
           "days": 42,
-          "start": "2026-04-29",
-          "end": "2026-06-09"
+          "start": "2026-04-30",
+          "end": "2026-06-10"
         },
         "weight_kg": 76.0,
         "weight_source": "athlete_profile",
@@ -440,11 +440,11 @@
       "completed_days": 0,
       "matched_days": 0,
       "planned_dates": [
-        "2026-06-03",
         "2026-06-04",
         "2026-06-06",
         "2026-06-07",
-        "2026-06-09"
+        "2026-06-09",
+        "2026-06-10"
       ],
       "completed_dates": []
     },
@@ -466,7 +466,7 @@
           "current_week_hard_days_total": 0,
           "race_proximity": null,
           "next_week_load": null,
-          "plan_coverage_current_week": 2.0,
+          "plan_coverage_current_week": 1.5,
           "plan_coverage_next_week": 1.5
         },
         "data_quality": "good",
@@ -500,7 +500,7 @@
     "p_max": null,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-06-09T22:55:57.041316",
+    "calculation_timestamp": "2026-06-10T00:07:12.703136",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 0,
@@ -1217,45 +1217,6 @@
   ],
   "wellness_data": [
     {
-      "date": "2026-06-03",
-      "weight_kg": null,
-      "resting_hr": null,
-      "hrv_rmssd": null,
-      "hrv_sdnn": null,
-      "sleep_hours": null,
-      "sleep_formatted": null,
-      "sleep_quality": null,
-      "sleep_score": null,
-      "mental_energy": null,
-      "avg_sleeping_hr": null,
-      "vo2max": null,
-      "fatigue": null,
-      "soreness": null,
-      "stress": null,
-      "mood": null,
-      "motivation": null,
-      "injury": null,
-      "hydration": null,
-      "spO2": null,
-      "blood_glucose": null,
-      "systolic": null,
-      "diastolic": null,
-      "baevsky_si": null,
-      "lactate": null,
-      "respiration": null,
-      "body_fat_pct": null,
-      "abdomen_cm": null,
-      "steps": null,
-      "hydration_volume_l": null,
-      "kcal_consumed": null,
-      "carbohydrates_g": null,
-      "protein_g": null,
-      "fat_g": null,
-      "menstrual_phase": null,
-      "menstrual_phase_predicted": null,
-      "readiness": null
-    },
-    {
       "date": "2026-06-04",
       "weight_kg": null,
       "resting_hr": null,
@@ -1488,37 +1449,48 @@
       "menstrual_phase": null,
       "menstrual_phase_predicted": null,
       "readiness": null
+    },
+    {
+      "date": "2026-06-10",
+      "weight_kg": null,
+      "resting_hr": null,
+      "hrv_rmssd": null,
+      "hrv_sdnn": null,
+      "sleep_hours": null,
+      "sleep_formatted": null,
+      "sleep_quality": null,
+      "sleep_score": null,
+      "mental_energy": null,
+      "avg_sleeping_hr": null,
+      "vo2max": null,
+      "fatigue": null,
+      "soreness": null,
+      "stress": null,
+      "mood": null,
+      "motivation": null,
+      "injury": null,
+      "hydration": null,
+      "spO2": null,
+      "blood_glucose": null,
+      "systolic": null,
+      "diastolic": null,
+      "baevsky_si": null,
+      "lactate": null,
+      "respiration": null,
+      "body_fat_pct": null,
+      "abdomen_cm": null,
+      "steps": null,
+      "hydration_volume_l": null,
+      "kcal_consumed": null,
+      "carbohydrates_g": null,
+      "protein_g": null,
+      "fat_g": null,
+      "menstrual_phase": null,
+      "menstrual_phase_predicted": null,
+      "readiness": null
     }
   ],
   "planned_workouts": [
-    {
-      "id": 114700584,
-      "date": "2026-06-09",
-      "name": "Trail Run 75min Z1-Z2",
-      "type": "WORKOUT",
-      "sport_type": "Run",
-      "planned_tss": null,
-      "duration_hours": 1.25,
-      "duration_formatted": "1h15m",
-      "workout_summary": null,
-      "has_terrain": false,
-      "start_time": "06:00",
-      "description": "AI Coach | Z1-Z2 (< 150 bpm), Pace > 5:00/km"
-    },
-    {
-      "id": 114700585,
-      "date": "2026-06-09",
-      "name": "Easy Rad 75min Z1-Z2",
-      "type": "WORKOUT",
-      "sport_type": "Ride",
-      "planned_tss": null,
-      "duration_hours": 1.25,
-      "duration_formatted": "1h15m",
-      "workout_summary": null,
-      "has_terrain": false,
-      "start_time": "06:00",
-      "description": "AI Coach | Z1-Z2 (< 140 bpm)"
-    },
     {
       "id": 114700586,
       "date": "2026-06-10",
@@ -1643,7 +1615,7 @@
       "workout_summary": null,
       "has_terrain": false,
       "start_time": "06:00",
-      "description_preview": "AI Coach | Z1 (< 135 bpm), Pace > 5:30/km"
+      "description": "AI Coach | Z1 (< 135 bpm), Pace > 5:30/km"
     },
     {
       "id": 114700596,
@@ -1693,7 +1665,7 @@
     "success": 0,
     "patternA": 0,
     "patternB": 0,
-    "bail_no_workout_doc": 14,
+    "bail_no_workout_doc": 12,
     "bail_no_match": 0
   },
   "weekly_summary": {
