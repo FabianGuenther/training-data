@@ -137,3 +137,8 @@ GRUND: Korrektes Renndatum nach Fabian-Hinweis
 DATUM: 2026-06-11
 AENDERUNG: Hill Run 70 min auf Easy Run 55-60 min reduziert, keine Bergauf-Intervalle
 GRUND: Fabian berichtet schwere Beine, 8 Tage vor ZUT Schonung wichtiger
+
+### 2026-06-11
+DATUM: 2026-06-11
+AENDERUNG: Hill Run 70 min Z3 geändert zu Lockerer Lauf 60 min mit 2-3 leichten Anstiegen Z2-Z3, Freitag 12.06. wird Ruhetag statt heute
+GRUND: Schwere Beine, bessere Erholung vor Weekend Back-to-Back Training
