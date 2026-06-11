@@ -132,3 +132,8 @@ Herzfrequenz: Z1 (< 135 bpm) - nur aktive Recovery falls nötig
 DATUM: 2026-06-07
 AENDERUNG: Zugspitz Ultratrail von Samstag 20.06. auf Freitag 19.06. korrigiert
 GRUND: Korrektes Renndatum nach Fabian-Hinweis
+
+### 2026-06-11
+DATUM: 2026-06-11
+AENDERUNG: Hill Run 70 min auf Easy Run 55-60 min reduziert, keine Bergauf-Intervalle
+GRUND: Fabian berichtet schwere Beine, 8 Tage vor ZUT Schonung wichtiger
