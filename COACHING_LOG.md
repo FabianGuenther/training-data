@@ -1042,3 +1042,24 @@ Bei TSB 7.7 sehr gut erholt, ACWR 0.59 und P3 grünes Licht - optimale Vorausset
 ## 4) Wichtige Hinweise
 - **Zugspitz Ultratrail:** 8 Tage (19. Juni) - Hill Run 4 als finale trail-spezifische Bergauf-Vorbereitung
 - **Bergauf:** Komplett HR-gesteuert Z3 (151-160 bpm), keine Pace-Vorgaben bei Anstiegen
+
+---
+
+## 2026-06-12
+
+# Morgencheck - Freitag, 12. Juni 2026
+
+## 1) Erholungsstatus
+**53 Tage nach Wien Marathon** - ZUT Base-Phase läuft optimal! TSB +2.4 ausgeglichen, ACWR 0.97 optimal. Phase "Base" (medium confidence) mit TID "Pyramidal" stabil. P3 grünes Licht trotz 4 fehlender Wellness-Signale - perfekte Voraussetzungen für heutiges Training.
+
+## 2) Gestriges Training
+**Donnerstag 11.06.:** Lunch Laufen 53 min, 139 bpm Ø, Feel 2 ("Good"), TSS 45 - lockerer Lauf statt geplantem Hill Run 4. HR perfekt in Z1-Z2 (< 150 bpm), 178 hm gesammelt. Anpassung aufgrund schwerer Beine war richtig.
+
+## 3) Empfehlung für heute
+**PLAN: Ruhetag wie geplant** - Freitag 12.06. wird regulärer Ruhetag
+
+Bei TSB +2.4, ACWR 0.97 und P3 grünes Licht - perfekte Bedingungen für geplanten Ruhetag. **Morgen:** Long Run 135 min, Z1-Z2 (< 150 bpm), Pace > 5:00/km
+
+## 4) Wichtige Hinweise
+- **Zugspitz Ultratrail:** 7 Tage (19. Juni) - gute Erholung vor finalem Long Run
+- **Morgen:** Längste Einheit der ZUT Base-Phase - 135 min trail-spezifischer Long Run
