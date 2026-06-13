@@ -1063,3 +1063,24 @@ Bei TSB +2.4, ACWR 0.97 und P3 grünes Licht - perfekte Bedingungen für geplant
 ## 4) Wichtige Hinweise
 - **Zugspitz Ultratrail:** 7 Tage (19. Juni) - gute Erholung vor finalem Long Run
 - **Morgen:** Längste Einheit der ZUT Base-Phase - 135 min trail-spezifischer Long Run
+
+---
+
+## 2026-06-13
+
+# Morgencheck - Samstag, 13. Juni 2026
+
+## 1) Erholungsstatus
+**54 Tage nach Wien Marathon** - ZUT Base-Phase läuft optimal! TSB 5 positiv erholt, ACWR 0.45 niedrig nach nur 2 Einheiten in 7 Tagen. Phase "Base" (medium confidence) mit TID "Pyramidal" stabil. P3 grünes Licht trotz 4 fehlender Wellness-Signale - perfekte Voraussetzungen für heutiges Training.
+
+## 2) Gestriges Training
+**Freitag 12.06.:** Ruhetag wie geplant - regulärer Freitag-Ruhetag nach erfolgreichen Läufen am Donnerstag (53 min, 139 bpm Ø, Feel 2, TSS 45) und Mittwoch (51 min, 137 bpm Ø, Feel 3, TSS 38).
+
+## 3) Empfehlung für heute
+**PLAN: Long Run 135 min wie geplant - Z1-Z2 (< 150 bpm), Pace > 5:00/km**
+
+Bei TSB 5 positiv erholt, ACWR 0.45 und P3 grünes Licht - optimale Voraussetzungen für den geplanten Long Run. Längste und wichtigste Einheit vor ZUT.
+
+## 4) Wichtige Hinweise
+- **Zugspitz Ultratrail:** 6 Tage (19. Juni) - finale trail-spezifische Long Run für 29 km / 1600 hm Vorbereitung
+- **Letzte große Einheit** vor ZUT Taper ab Dienstag - heute den vollen Umfang nutzen
