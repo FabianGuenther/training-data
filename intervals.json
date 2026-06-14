@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T14:40:44.546869",
+  "generated_at": "2026-06-14T16:10:59.629694",
   "version": "3.104",
   "script_hash": "744b8033c4af",
   "scan_hours": 72,
@@ -810,6 +810,97 @@
           "max_hr": 151,
           "avg_cadence": 81.0,
           "zone": 3
+        }
+      ]
+    },
+    {
+      "activity_id": "i157241606",
+      "date": "2026-06-14",
+      "type": "Ride",
+      "name": "Bamberg Rennradfahren",
+      "interval_summary": [
+        "3x 22m22s 131bpm",
+        "3x 17m10s 135bpm",
+        "1x 17m54s 116bpm",
+        "1x 15m10s 120bpm",
+        "1x 8m19s 124bpm"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1
+        },
+        {
+          "type": "WORK",
+          "label": "1342s@131bpm",
+          "duration_secs": 1387,
+          "avg_hr": 119,
+          "max_hr": 144,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "1030s@135bpm",
+          "duration_secs": 1031,
+          "avg_hr": 134,
+          "max_hr": 148,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "1342s@131bpm",
+          "duration_secs": 1274,
+          "avg_hr": 143,
+          "max_hr": 156,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "1030s@135bpm",
+          "duration_secs": 1022,
+          "avg_hr": 132,
+          "max_hr": 157,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "1030s@135bpm",
+          "duration_secs": 1038,
+          "avg_hr": 139,
+          "max_hr": 164,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "1342s@131bpm",
+          "duration_secs": 1366,
+          "avg_hr": 132,
+          "max_hr": 153,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "1074s@116bpm",
+          "duration_secs": 1074,
+          "avg_hr": 116,
+          "max_hr": 145,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "910s@120bpm",
+          "duration_secs": 910,
+          "avg_hr": 120,
+          "max_hr": 152,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "499s@124bpm",
+          "duration_secs": 499,
+          "avg_hr": 124,
+          "max_hr": 139,
+          "zone": 1
         }
       ]
     }
