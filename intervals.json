@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T12:24:48.397061",
+  "generated_at": "2026-06-16T17:28:39.305929",
   "version": "3.104",
   "script_hash": "744b8033c4af",
   "scan_hours": 72,
@@ -900,6 +900,43 @@
           "duration_secs": 499,
           "avg_hr": 124,
           "max_hr": 139,
+          "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i157793416",
+      "date": "2026-06-16",
+      "type": "Ride",
+      "name": "Bamberg Rennradfahren",
+      "interval_summary": [
+        "1x 17m9s 123bpm",
+        "1x 21m31s 133bpm",
+        "1x 2m42s 128bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "1029s@123bpm",
+          "duration_secs": 1029,
+          "avg_hr": 123,
+          "max_hr": 137,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "1291s@133bpm",
+          "duration_secs": 1291,
+          "avg_hr": 133,
+          "max_hr": 161,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "162s@128bpm",
+          "duration_secs": 162,
+          "avg_hr": 128,
+          "max_hr": 146,
           "zone": 1
         }
       ]
