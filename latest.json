@@ -70,7 +70,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-06-22T00:20:46.304802",
+    "last_updated": "2026-06-22T05:38:51.069481",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.104"
@@ -139,8 +139,8 @@
       "unavailable": 4
     },
     "phase_context": {
-      "phase": "Base",
-      "phase_week": 1,
+      "phase": null,
+      "phase_week": 0,
       "amber_threshold": 2,
       "modifier_applied": "default"
     },
@@ -151,9 +151,9 @@
   },
   "history": {
     "available": true,
-    "last_generated": "2026-05-24",
-    "age_days": 29,
-    "total_months": 3,
+    "last_generated": "2026-06-22",
+    "age_days": 0,
+    "total_months": 4,
     "history_confidence": "medium"
   },
   "summary": {
@@ -457,13 +457,15 @@
       ]
     },
     "phase_detection": {
-      "phase": "Base",
-      "confidence": "high",
-      "reason_codes": [],
+      "phase": null,
+      "confidence": "low",
+      "reason_codes": [
+        "BUILD_BASE_AMBIGUOUS"
+      ],
       "basis": {
         "stream_1": {
-          "ctl_slope": null,
-          "acwr_trend": null,
+          "ctl_slope": 1.55,
+          "acwr_trend": "rising",
           "hard_day_pattern": 1,
           "weeks_available": 4
         },
@@ -481,12 +483,14 @@
         "stream_agreement": null
       },
       "previous_phase": null,
-      "phase_duration_weeks": 1,
+      "phase_duration_weeks": 0,
       "dossier_declared": null,
       "dossier_agreement": null
     },
-    "phase_detected": "Base",
-    "phase_triggers": [],
+    "phase_detected": null,
+    "phase_triggers": [
+      "BUILD_BASE_AMBIGUOUS"
+    ],
     "seasonal_context": "Build / Early Race Season",
     "benchmark_indoor": {
       "current_ftp": null,
@@ -508,7 +512,7 @@
     "p_max": null,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-06-22T00:20:46.304036",
+    "calculation_timestamp": "2026-06-22T05:38:51.068615",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 0,
