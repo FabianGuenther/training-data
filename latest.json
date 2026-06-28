@@ -62,15 +62,15 @@
       "menstrual": "menstrual_phase and menstrual_phase_predicted are not on the 1-4 scale. Values: PERIOD, FOLLICULAR, OVULATION, LUTEAL, etc."
     },
     "quick_stats": {
-      "total_training_hours": 0.0,
-      "total_training_formatted": "0s",
-      "total_activities": 0,
+      "total_training_hours": 1.25,
+      "total_training_formatted": "1h14m",
+      "total_activities": 1,
       "total_tss": 0
     }
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-06-28T19:51:23.311190",
+    "last_updated": "2026-06-28T20:53:20.813320",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.104"
@@ -149,9 +149,16 @@
   "summary": {
     "period_description": "Last 7 days of training (including today)",
     "note": "Duration calculated from API moving_time field.",
-    "total_duration_decimal_hours": 0.0,
-    "total_activities": 0,
-    "by_activity_type": {}
+    "total_duration_decimal_hours": 1.25,
+    "total_activities": 1,
+    "by_activity_type": {
+      "Ride": {
+        "duration_decimal_hours": 1.25,
+        "count": 1,
+        "tss": 0,
+        "distance_km": 31.2
+      }
+    }
   },
   "current_status": {
     "fitness": {
@@ -159,7 +166,7 @@
       "atl": 15.46,
       "tsb": 11.01,
       "ramp_rate": -4.8,
-      "fitness_source": "Decayed from yesterday (today's planned workouts not yet completed)"
+      "fitness_source": "From Intervals.icu API (reflects completed workouts)"
     },
     "thresholds": {
       "eftp": null,
@@ -250,7 +257,7 @@
     "strain": null,
     "stress_tolerance": null,
     "load_recovery_ratio": null,
-    "tss_7d_total": 0,
+    "tss_7d_total": 0.0,
     "tss_28d_total": 733.0,
     "zone_distribution_7d": {
       "z1_hours": 0.0,
@@ -395,11 +402,11 @@
       },
       "dfa_a1_profile": null
     },
-    "consistency_index": 0.0,
+    "consistency_index": 0.2,
     "consistency_details": {
       "planned_days": 5,
-      "completed_days": 0,
-      "matched_days": 0,
+      "completed_days": 1,
+      "matched_days": 1,
       "planned_dates": [
         "2026-06-23",
         "2026-06-24",
@@ -407,7 +414,9 @@
         "2026-06-27",
         "2026-06-28"
       ],
-      "completed_dates": []
+      "completed_dates": [
+        "2026-06-28"
+      ]
     },
     "phase_detection": {
       "phase": "Build",
@@ -461,12 +470,12 @@
     "p_max": null,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-06-28T19:51:23.310429",
+    "calculation_timestamp": "2026-06-28T20:53:20.812586",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 0,
-      "activities_7d": 0,
-      "activities_28d": 9,
+      "activities_7d": 1,
+      "activities_28d": 10,
       "planned_workouts_7d": 9,
       "ftp_history_days": {
         "indoor": 0,
@@ -475,6 +484,46 @@
     }
   },
   "recent_activities": [
+    {
+      "id": "i161067793",
+      "date": "2026-06-28T20:31:44",
+      "type": "Ride",
+      "name": "Bamberg Rennradfahren",
+      "duration_hours": 1.25,
+      "distance_km": 31.24,
+      "tss": null,
+      "intensity_factor": null,
+      "avg_power": null,
+      "normalized_power": null,
+      "avg_hr": null,
+      "max_hr": null,
+      "avg_cadence": null,
+      "avg_speed": 25.0,
+      "avg_speed_unit": "KPH",
+      "max_speed": 44.0,
+      "max_speed_unit": "KPH",
+      "avg_pace": null,
+      "avg_temp": 30.14357,
+      "avg_temp_unit": "C",
+      "weather": null,
+      "humidity": null,
+      "wind_speed": null,
+      "wind_speed_unit": "KMH",
+      "work_kj": null,
+      "calories": 1037,
+      "carbs_used": null,
+      "carbs_ingested": null,
+      "variability_index": null,
+      "decoupling": null,
+      "efficiency_factor": null,
+      "hrrc": null,
+      "elevation_m": 209.0,
+      "feel": null,
+      "rpe": null,
+      "zone_distribution": null,
+      "has_intervals": false,
+      "has_dfa": false
+    },
     {
       "id": "i158608415",
       "date": "2026-06-19T10:05:06",
@@ -1240,10 +1289,10 @@
     "bail_no_match": 0
   },
   "weekly_summary": {
-    "total_training_hours": 0.0,
-    "total_training_formatted": "0s",
+    "total_training_hours": 1.25,
+    "total_training_formatted": "1h14m",
     "total_tss": 0,
-    "activities_count": 0,
+    "activities_count": 1,
     "avg_hrv": null,
     "avg_resting_hr": null
   },
