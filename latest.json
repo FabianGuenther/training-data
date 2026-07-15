@@ -62,15 +62,15 @@
       "menstrual": "menstrual_phase and menstrual_phase_predicted are not on the 1-4 scale. Values: PERIOD, FOLLICULAR, OVULATION, LUTEAL, etc."
     },
     "quick_stats": {
-      "total_training_hours": 1.15,
-      "total_training_formatted": "1h9m",
-      "total_activities": 1,
+      "total_training_hours": 2.52,
+      "total_training_formatted": "2h31m",
+      "total_activities": 2,
       "total_tss": 49
     }
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-07-15T16:43:26.791481",
+    "last_updated": "2026-07-15T17:54:29.129298",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.104"
@@ -159,14 +159,14 @@
   "summary": {
     "period_description": "Last 7 days of training (including today)",
     "note": "Duration calculated from API moving_time field.",
-    "total_duration_decimal_hours": 1.15,
-    "total_activities": 1,
+    "total_duration_decimal_hours": 2.52,
+    "total_activities": 2,
     "by_activity_type": {
       "Ride": {
-        "duration_decimal_hours": 1.15,
-        "count": 1,
+        "duration_decimal_hours": 2.52,
+        "count": 2,
         "tss": 49,
-        "distance_km": 27.5
+        "distance_km": 62.0
       }
     }
   },
@@ -437,7 +437,7 @@
     "consistency_index": null,
     "consistency_details": {
       "planned_days": 0,
-      "completed_days": 1,
+      "completed_days": 2,
       "matched_days": 0,
       "note": "No planned workouts in period"
     },
@@ -497,12 +497,12 @@
     "p_max": null,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-07-15T16:43:26.790779",
+    "calculation_timestamp": "2026-07-15T17:54:29.128496",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 0,
-      "activities_7d": 1,
-      "activities_28d": 5,
+      "activities_7d": 2,
+      "activities_28d": 6,
       "planned_workouts_7d": 0,
       "ftp_history_days": {
         "indoor": 0,
@@ -511,6 +511,46 @@
     }
   },
   "recent_activities": [
+    {
+      "id": "i166053527",
+      "date": "2026-07-15T17:24:34",
+      "type": "Ride",
+      "name": "Bamberg Rennradfahren",
+      "duration_hours": 1.37,
+      "distance_km": 34.48,
+      "tss": null,
+      "intensity_factor": null,
+      "avg_power": null,
+      "normalized_power": null,
+      "avg_hr": null,
+      "max_hr": null,
+      "avg_cadence": null,
+      "avg_speed": 25.1,
+      "avg_speed_unit": "KPH",
+      "max_speed": 58.4,
+      "max_speed_unit": "KPH",
+      "avg_pace": null,
+      "avg_temp": 27.273746,
+      "avg_temp_unit": "C",
+      "weather": null,
+      "humidity": null,
+      "wind_speed": null,
+      "wind_speed_unit": "KMH",
+      "work_kj": null,
+      "calories": 1258,
+      "carbs_used": null,
+      "carbs_ingested": null,
+      "variability_index": null,
+      "decoupling": null,
+      "efficiency_factor": null,
+      "hrrc": null,
+      "elevation_m": 395.0,
+      "feel": null,
+      "rpe": null,
+      "zone_distribution": null,
+      "has_intervals": false,
+      "has_dfa": false
+    },
     {
       "id": "i164273728",
       "date": "2026-07-09T19:35:01",
@@ -1017,10 +1057,10 @@
     "bail_no_match": 0
   },
   "weekly_summary": {
-    "total_training_hours": 1.15,
-    "total_training_formatted": "1h9m",
+    "total_training_hours": 2.52,
+    "total_training_formatted": "2h31m",
     "total_tss": 49,
-    "activities_count": 1,
+    "activities_count": 2,
     "avg_hrv": null,
     "avg_resting_hr": null
   },
