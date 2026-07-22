@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T19:40:49.702955",
+  "generated_at": "2026-07-22T20:43:34.309400",
   "version": "3.104",
   "script_hash": "744b8033c4af",
   "scan_hours": 72,
@@ -252,6 +252,187 @@
           "max_hr": 140,
           "avg_cadence": 79.513275,
           "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i168209272",
+      "date": "2026-07-22",
+      "type": "Ride",
+      "name": "Bamberg Rennradfahren",
+      "interval_summary": [
+        "10x 28m1s 53bpm",
+        "7x 19m17s 118bpm",
+        "1x 34m51s 141bpm",
+        "1x 1h1m 135bpm",
+        "1x 32m26s ",
+        "1x 1h1m ",
+        "1x 39m1s ",
+        "1x 29m40s ",
+        "1x 44m7s ",
+        "1x 4m19s "
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "1681s@53bpm",
+          "duration_secs": 1348,
+          "avg_hr": 127,
+          "max_hr": 147,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "1157s@118bpm",
+          "duration_secs": 1150,
+          "avg_hr": 138,
+          "max_hr": 155,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "1157s@118bpm",
+          "duration_secs": 1120,
+          "avg_hr": 134,
+          "max_hr": 154,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "1681s@53bpm",
+          "duration_secs": 1545,
+          "avg_hr": 132,
+          "max_hr": 144,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "1157s@118bpm",
+          "duration_secs": 1051,
+          "avg_hr": 134,
+          "max_hr": 149,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "1157s@118bpm",
+          "duration_secs": 1140,
+          "avg_hr": 135,
+          "max_hr": 160,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "1157s@118bpm",
+          "duration_secs": 1208,
+          "avg_hr": 143,
+          "max_hr": 160,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "2091s@141bpm",
+          "duration_secs": 2091,
+          "avg_hr": 141,
+          "max_hr": 158,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "1157s@118bpm",
+          "duration_secs": 1308,
+          "avg_hr": 143,
+          "max_hr": 158,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "1681s@53bpm",
+          "duration_secs": 1832,
+          "avg_hr": 141,
+          "max_hr": 165,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "1681s@53bpm",
+          "duration_secs": 1445,
+          "avg_hr": 127,
+          "max_hr": 156,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "3669s@135bpm",
+          "duration_secs": 3669,
+          "avg_hr": 135,
+          "max_hr": 161,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "1946s@4.13mps",
+          "duration_secs": 1946
+        },
+        {
+          "type": "WORK",
+          "label": "1681s@53bpm",
+          "duration_secs": 1555
+        },
+        {
+          "type": "WORK",
+          "label": "3673s@3.15mps",
+          "duration_secs": 3673
+        },
+        {
+          "type": "WORK",
+          "label": "1681s@53bpm",
+          "duration_secs": 1993
+        },
+        {
+          "type": "WORK",
+          "label": "2341s@5.76mps",
+          "duration_secs": 2341
+        },
+        {
+          "type": "WORK",
+          "label": "1780s@4.76mps",
+          "duration_secs": 1780
+        },
+        {
+          "type": "WORK",
+          "label": "2647s@4.07mps",
+          "duration_secs": 2647
+        },
+        {
+          "type": "WORK",
+          "label": "1681s@53bpm",
+          "duration_secs": 1622
+        },
+        {
+          "type": "WORK",
+          "label": "1157s@118bpm",
+          "duration_secs": 1120
+        },
+        {
+          "type": "WORK",
+          "label": "1681s@53bpm",
+          "duration_secs": 1752
+        },
+        {
+          "type": "WORK",
+          "label": "1681s@53bpm",
+          "duration_secs": 1738
+        },
+        {
+          "type": "WORK",
+          "label": "1681s@53bpm",
+          "duration_secs": 1976
+        },
+        {
+          "type": "WORK",
+          "label": "259s@8.19mps",
+          "duration_secs": 259
         }
       ]
     }
